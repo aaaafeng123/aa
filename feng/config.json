@@ -20,10 +20,21 @@
     "key":"csp_woggcli",
     "name":"📶俊哥玩偶┃CLi",
     "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?token=acb98592a59d44318c01e544e057b70a",
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
+    "ext" : "acb98592a59d44318c01e544e057b70a",
+    {
+            "key": "ali_cli",
+            "name": "阿里聚合搜(cli)",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/ali/cli_Ali",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "acb98592a59d44318c01e544e057b70a"
+        },
   }, {
     "key": "csp_wogg_cli",
     "name": "玩偶(cli)",
@@ -32,6 +43,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
+    "ext" : "acb98592a59d44318c01e544e057b70a",
   },{
     "key": "荐片",
     "name": "荐片(cli)",
