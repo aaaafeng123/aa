@@ -1,63 +1,63 @@
 {
-"spider": "./jar/fm.nogo.jar;md5;24d06b2deb05926551337b702fe566de",
-"spider": "./jar/fm.nogo.jar;md5;24d06b2deb05926551337b702fe566de",
-“壁纸”：“http://youmayodo.Top/mayotomayou/API.PHP”
+    "spider": "./jar/fm.nogo.jar;md5;24d06b2deb05926551337b702fe566de",
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "sites": [
        {
-“地盘”：[
-"key": "lf_js_ikanbot",
-[name]：[点播|lf_ikanbot]
-“类型”：3，
-“可搜索”：1，
-“多变”：1，
-"quickSearch": 1,
-“可过滤”：1，
+            "key": "lf_js_ikanbot",
+            "name": "点播 | lf_ikanbot",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/lf_ikanbot5_2_min.js"
         },
         {
-"api": "./lib/lf_ikanbot5_2_min.js"
-"key": "lf_js_search",
-“name”：“搜索|lf_search”
-“类型”：3，
-“可搜索”：0，
-“多变”：1，
-"quickSearch": 0,
-“可过滤”：0，
+            "key": "lf_js_search",
+            "name": "搜索 | lf_search",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./lib/lf_search3_min.js"
         },
         {
-"api": "./lib/lf_search3_min.js"
-"key": "lf_js_p2p",
-“name”：“磁力|lf_p2p”
-“类型”：3，
-“可搜索”：1，
-“多变”：1，
-"quickSearch": 1,
-“可过滤”：1，
-"ext": "18+"
+            "key": "lf_js_p2p",
+            "name": "磁力 | lf_p2p",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/lf_p2p2_min.js",
+            "ext": "18+"
         },
         {
-"key": "push_agent(停用5)",
-“name”：“推送|lf_push”，
-“类型”：3，
-“可搜索”：0，
-“多变”：1，
-"quickSearch": 0,
-“可过滤”：0，
-"api": "./lib/lf_pushagent1_5_min.js",
-"ext": "9bd4dc66b98b426e8f53ee72d9d23368"
-        },
-        {
-"key": "push_agent",
-“name”：“pg推送”，
-“类型”：3，
-"api": "csp_Push",
+            "key": "push_agent",
+            "name": "pg推送",
+            "type": 3,
+            "api": "csp_Push",
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
             "changeable":0,
-“ext”：[./pg推送
+            "ext": "./pg推送.json"
         },
         {
-“key”：“drpy_js_愛盤搜”
-“name”：“影视|you js|you|”
+            "key": "push_agent(停用2)",
+            "name": "推送 | lf_push停",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./lib/lf_pushagent1_5_min.js",
+            "ext": "9bd4dc66b98b426e8f53ee72d9d23368"
+        },
+        {
+            "key":"drpy_js_愛盤搜",
+            "name":"影视 | 爱盘搜[js] | 夸",
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./lib/aipanso.js", 
@@ -66,8 +66,8 @@
              "timeout":30
         },
         {
-“key”：“drpy_js_趣盤搜”
-“name”：“影视|you js|you|”
+            "key":"drpy_js_趣盤搜",
+            "name":"影视 | 趣盘搜[js] | 夸",
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./lib/funletu.js", 
@@ -76,10 +76,10 @@
              "timeout":30
         },
         {
-“key”：“push_夸克（先停用）”，
-“姓名”：“夸克推送”，
-“类型”：3，
-“api”：“CSP_夸克”，
+            "key": "push_quark(先停用)",
+            "name": "夸克推送",
+            "type": 3,
+            "api": "csp_Quark",
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
