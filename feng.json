@@ -296,6 +296,9 @@
             "key": "菜狗.js",
             "name": "官源｜🐶搜狗❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/菜狗.js"
         },
@@ -303,6 +306,9 @@
             "key": "优酷.js",
             "name": "官源｜优酷❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/优酷.js"
         },
@@ -310,6 +316,9 @@
             "key": "腾云驾雾.js",
             "name": "官源｜腾讯❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/腾云驾雾.js"
         },
@@ -317,6 +326,9 @@
             "key": "奇珍异兽.js",
             "name": "官源｜爱奇艺❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/奇珍异兽.js"
         },
@@ -324,6 +336,9 @@
             "key": "360影视.js",
             "name": "官源｜360影视❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/360影视.js"
         },
@@ -331,6 +346,9 @@
             "key": "百忙无果.js",
             "name": "官源｜芒果❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/百忙无果.js"
         },
@@ -338,6 +356,9 @@
             "key": "如意.js",
             "name": "✨｜如意❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/如意[V2].jsd"
         },
@@ -345,6 +366,9 @@
             "key": "影视工场.js",
             "name": "✨｜影视工场❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/影视工场.js"
         },
@@ -352,6 +376,9 @@
             "key": "爱迪[V2].js",
             "name": "✨｜爱迪[V2]❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/爱迪[V2].js"
         },
@@ -359,6 +386,9 @@
             "key": "大师兄影视.js",
             "name": "✨｜大师兄影视❤️[js]",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/大师兄影视.js"
         },
@@ -422,6 +452,7 @@
             "api": "https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kunyu77_open.js",
             "searchable": 1,
             "changeable": 1,
+            "quickSearch": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -596,6 +627,7 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
+            "changeable": "1",
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/迅雷XYQH.json",
@@ -609,6 +641,7 @@
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
+            "changeable": "1",
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
@@ -650,6 +683,7 @@
             "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 1,
+            "changeable": "1",
             "quickSearch": 1
         },
         {
@@ -658,6 +692,7 @@
             "type": 0,
             "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
+            "changeable": "1",
             "quickSearch": 1
         },
         {
@@ -666,6 +701,7 @@
       "type": 1,
       "api": "http://kuaikan-api.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
+      "changeable": "1",
       "quickSearch": 1,
       "categories": [
         "国产剧",
@@ -717,6 +753,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -760,6 +797,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -800,6 +838,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -841,6 +880,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -881,6 +921,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -921,6 +962,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -962,6 +1004,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1003,6 +1046,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1044,6 +1088,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1085,6 +1130,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1126,6 +1172,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1167,6 +1214,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1207,6 +1255,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1248,6 +1297,7 @@
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
+            "quickSearch": 1,
             "categories": [
                 "动作片",
                 "喜剧片",
@@ -1285,6 +1335,7 @@
             "playUrl": "https://lziplayer.com/?url=",
             "searchable": 1,
             "changeable": 1,
+            "quickSearch": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
