@@ -3,6 +3,16 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
        {
+            "key": "If_js_live",
+            "name": "🎉直播🎄┃If_live2vod",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./js/lf_live10_min.js",
+            "ext": "./js/lf_live.txt"
+       },
+       {
             "key": "lf_js_ikanbot",
             "name": "点播 | lf_ikanbot",
             "type": 3,
@@ -158,6 +168,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext":"05189a46d4e844c2817c832b297a9d5b"
+        },
+        {
+            "key": "纸条",
+            "name": "纸条(cli)",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "荐片",
