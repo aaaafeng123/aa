@@ -218,6 +218,7 @@
             },
             "api": "./lib/drpy2.min.js",
             "ext": "./js/荐片.js"
+            
         },
         {
             "key": "专线",
@@ -392,7 +393,54 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/大师兄影视.js"
         },
-        
+        {
+            "key": "Qtv",
+            "name": "🐧┃企鹅┃官源",
+            "type": 3,
+            "api": "csp_Qtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"./jar/pandaQ230823肥猫.jar"
+        },
+        {
+            "key": "csp_SP360",
+            "name": "📺┃360┃官源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/360影视.json",
+            "jar":"./jar/pandaQ230823肥猫.jar"
+        },
+        {
+            "key": "MGT",
+            "name": "🍋┃芒果┃官源",
+            "type": 3,
+            "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"./jar/pandaQ230823肥猫.jar"
+        },
+        {
+      "key": "素白",
+      "name": "🦢┃素白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./js/素白白.json",
+      "jar":"./jar/pandaQ230823肥猫.jar"
+    },
+    {
+      "key": "虎虎",
+      "name": "🐯┃虎虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./js/虎虎.json",
+     "jar":"./jar/pandaQ230823肥猫.jar"
+    },
+    
         
         
         
