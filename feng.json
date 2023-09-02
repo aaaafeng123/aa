@@ -22,16 +22,78 @@
             "filterable": 1
        },
        {
-            "key": "If_js_live",
-            "name": "🎉直播🎄┃If_live2vod",
+            "key": "lf_js_search",
+            "name": "搜索 | lf_search",
             "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./js/lf_search3_min.js"
+        },
+        {
+            "key": "csp_wogg_cli",
+            "name": "玩偶(cli)",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./js/lf_live10_min.js",
-            "ext": "./js/lf_live.txt"
-       },
-       {
+            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
+        },
+        {
+            "key": "ali_cli",
+            "name": "阿里聚合搜(cli)",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/ali/cli_Alii",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
+        },
+        {
+            "key": "纸条",
+            "name": "纸条(cli)",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
+        },
+        {
+            "key": "荐片",
+            "name": "荐片(cli)",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_JP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "🎬玩偶┃自营",
+            "type": 3,
+            "api": "csp_WoGG",
+            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+            "jar":"./jar/fty.jar"
+        },
+        {
+            "key": "drpy_js_荐片",
+            "name": "荐片[js]",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/荐片.js"
+            
+        },
+        {
             "key": "lf_js_ikanbot",
             "name": "点播 | lf_ikanbot",
             "type": 3,
@@ -42,15 +104,16 @@
             "api": "./js/lf_ikanbot5_2_min.js"
         },
         {
-            "key": "lf_js_search",
-            "name": "搜索 | lf_search",
+            "key": "If_js_live",
+            "name": "🎉直播🎄┃If_live2vod",
             "type": 3,
-            "searchable": 0,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "./js/lf_search3_min.js"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./js/lf_live10_min.js",
+            "ext": "./js/lf_live.txt"
         },
+        
         {
             "key": "lf_js_p2p",
             "name": "磁力 | lf_p2p",
@@ -157,66 +220,7 @@
             "type": "帕梅拉#太极拳#广场舞#演唱会",
             "cookie": ""}
         },
-        {
-            "key": "77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"./jar/fty.jar"
-        },
-        {
-            "key": "csp_WoGG",
-            "name": "🎬玩偶┃自营",
-            "type": 3,
-            "api": "csp_WoGG",
-            "changeable": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-            "jar":"./jar/fty.jar"
-        },
-        {
-            "key": "csp_wogg_cli",
-            "name": "玩偶(cli)",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
-        },
-        {
-            "key": "纸条",
-            "name": "纸条(cli)",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
-        },
-        {
-            "key": "荐片",
-            "name": "荐片(cli)",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_JP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "ali_cli",
-            "name": "阿里聚合搜(cli)",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/ali/cli_Alii",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
-        },
+        
         {
             "key": "push_agent",
             "name": "cli推送",
@@ -306,22 +310,15 @@
         {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider香雅情.jar","ext":"./js/DOVX搜索.json"},
         {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider香雅情.jar","ext":"./js/盘搜索.json"},
         
-        
-        
-        
-        
-        
         {
-            "key": "drpy_js_荐片",
-            "name": "荐片[js]",
+            "key": "77",
+            "name": "👒七七┃App",
             "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/荐片.js"
-            
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"./jar/fty.jar"
         },
         {
             "key": "专线",
@@ -396,6 +393,152 @@
             "ext": "https://api-aws.11ty.top",
             "jar":"./jar/fty.jar"
         },
+        
+        {
+      "key": "素白",
+      "name": "🦢┃素白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./js/素白白.json",
+      "jar":"./jar/pandaQ230823肥猫.jar"
+    },
+    {
+      "key": "虎虎",
+      "name": "🐯┃虎虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./js/虎虎.json",
+     "jar":"./jar/pandaQ230823肥猫.jar"
+        },
+        {
+      "key": "Czsapp",
+      "name": "📔厂长┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"./jar/fty.jar"
+    },
+    {
+      "key": "DiDuan",
+      "name": "⏮️低端┃直连",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"./jar/fty.jar"
+    },
+    {
+      "key": "Auete",
+      "name": "🏝奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+     "jar":"./jar/fty.jar"
+    },
+    {
+      "key": "Lib",
+      "name": "🌟利播┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.fun/",
+      "jar":"./jar/fty.jar"
+    },
+    {
+      "key": "Xinsj",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/",
+      "jar":"./jar/fty.jar"
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🌾农民┃直连",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./js/nmys.json",
+     "jar":"./jar/fty.jar"
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🏭工场┃直连",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.ysgc1.cc/",
+     "jar":"./jar/fty.jar"
+    },
+    {
+      "key": "耐看",
+      "name": "耐看┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
+      "playerType": "1",
+      "ext": "./js/来看.json"
+    },
+    {
+      "key": "星辰",
+      "name": "星辰┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
+      "playerType": "1",
+      "ext": "./js/星辰.json"
+    },
+    {
+      "key": "零度",
+      "name": "零度┃BPQ",
+      "type": 3,
+      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./js/tvb.json"
+    },
+        
+        {
+      "key": "热播库",
+      "name": "热播┃BPQ",
+      "type": 3,
+      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./js/热播.json"
+    },
+    {
+      "key": "石榴",
+      "name": "石榴┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./js/石榴.json",
+      "jar": "./jar/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7"
+    },
+    {
+      "key": "利播",
+      "name": "利播┃BPQ",
+      "type": 3,
+      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
+      "api": "csp_XBPQ",
+      "ext": "./js/利播.json"
+    },
         {
             "key": "菜狗.js",
             "name": "官源｜🐶搜狗❤️[js]",
@@ -527,25 +670,6 @@
             "filterable": 1,
             "jar":"./jar/pandaQ230823肥猫.jar"
         },
-        {
-      "key": "素白",
-      "name": "🦢┃素白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./js/素白白.json",
-      "jar":"./jar/pandaQ230823肥猫.jar"
-    },
-    {
-      "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./js/虎虎.json",
-     "jar":"./jar/pandaQ230823肥猫.jar"
-    },
-    
-        
-        
         
         {
             "key": "奈飞狗",
@@ -836,135 +960,7 @@
             "ext":"http://video.myshangdian.top/icciu_api.php/v1.vod",
             "jar":"./jar/香雅情.jar"
         },
-        {
-      "key": "Czsapp",
-      "name": "📔厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"./jar/fty.jar"
-    },
-    {
-      "key": "DiDuan",
-      "name": "⏮️低端┃直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"./jar/fty.jar"
-    },
-    {
-      "key": "Auete",
-      "name": "🏝奥特┃直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-     "jar":"./jar/fty.jar"
-    },
-    {
-      "key": "Lib",
-      "name": "🌟利播┃直连",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.fun/",
-      "jar":"./jar/fty.jar"
-    },
-    {
-      "key": "Xinsj",
-      "name": "👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/",
-      "jar":"./jar/fty.jar"
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./js/nmys.json",
-     "jar":"./jar/fty.jar"
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "🏭工场┃直连",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.ysgc1.cc/",
-     "jar":"./jar/fty.jar"
-    },
-        {
-      "key": "耐看",
-      "name": "耐看┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
-      "playerType": "1",
-      "ext": "./js/来看.json"
-    },
-    {
-      "key": "星辰",
-      "name": "星辰┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
-      "playerType": "1",
-      "ext": "./js/星辰.json"
-    },
-        {
-      "key": "零度",
-      "name": "零度┃BPQ",
-      "type": 3,
-      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./js/tvb.json"
-    },
         
-        {
-      "key": "热播库",
-      "name": "热播┃BPQ",
-      "type": 3,
-      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./js/热播.json"
-    },
-    {
-      "key": "石榴",
-      "name": "石榴┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./js/石榴.json",
-      "jar": "./jar/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7"
-    },
-    {
-      "key": "利播",
-      "name": "利播┃BPQ",
-      "type": 3,
-      "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "ext": "./js/利播.json"
-    },
         {
       "key": "黑狐",
       "name": "黑狐┃BPQ",
