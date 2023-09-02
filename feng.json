@@ -82,28 +82,6 @@
             "jar":"./jar/fty.jar"
         },
         {
-            "key": "drpy_js_荐片",
-            "name": "荐片[js]",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/荐片.js"
-            
-        },
-        {
-            "key": "lf_js_ikanbot",
-            "name": "点播 | lf_ikanbot",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/lf_ikanbot5_2_min.js"
-        },
-        {
             "key": "If_js_live",
             "name": "🎉直播🎄┃If_live2vod",
             "type": 3,
@@ -113,7 +91,6 @@
             "api": "./js/lf_live10_min.js",
             "ext": "./js/lf_live.txt"
         },
-        
         {
             "key": "lf_js_p2p",
             "name": "磁力 | lf_p2p",
@@ -125,59 +102,7 @@
             "api": "./js/lf_p2p2_min.js",
             "ext": "18+"
         },
-        {
-            "key": "push_agent",
-            "name": "pg推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "changeable":0,
-            "ext": "./pg推送.json"
-        },
-        {
-            "key": "push_agent(停用2)",
-            "name": "推送 | lf_push停",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "./js/lf_pushagent1_5_min.js",
-            "ext": "9bd4dc66b98b426e8f53ee72d9d23368"
-        },
-        {
-            "key":"drpy_js_愛盤搜",
-            "name":"影视 | 爱盘搜[js] | 夸",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/aipanso.js", 
-            "quickSearch":1, 
-            "changeable":1,
-             "timeout":30
-        },
-        {
-            "key":"drpy_js_趣盤搜",
-            "name":"影视 | 趣盘搜[js] | 夸",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/funletu.js", 
-            "quickSearch":1, 
-            "changeable":1,
-             "timeout":30
-        },
-        {
-            "key": "push_quark(先停用)",
-            "name": "夸克推送",
-            "type": 3,
-            "api": "csp_Quark",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "changeable":0,
-            "ext": "./lib/quark.txt"
-        },
+        
         {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
@@ -219,18 +144,6 @@
             "ext": { "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
             "type": "帕梅拉#太极拳#广场舞#演唱会",
             "cookie": ""}
-        },
-        
-        {
-            "key": "push_agent",
-            "name": "cli推送",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Push",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 1,
-            "filterable": 1,
-            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
         },
         {
       "key": "YiSo",
@@ -309,7 +222,80 @@
         {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider香雅情.jar","ext":"./js/土拨鼠搜索.json"},
         {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider香雅情.jar","ext":"./js/DOVX搜索.json"},
         {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider香雅情.jar","ext":"./js/盘搜索.json"},
-        
+        {
+            "key": "push_agent",
+            "name": "pg推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "changeable":0,
+            "ext": "./pg推送.json"
+        },
+        {
+            "key": "push_agent(停用2)",
+            "name": "推送 | lf_push停",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./js/lf_pushagent1_5_min.js",
+            "ext": "9bd4dc66b98b426e8f53ee72d9d23368"
+        },
+        {
+            "key":"drpy_js_愛盤搜",
+            "name":"影视 | 爱盘搜[js] | 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/aipanso.js", 
+            "quickSearch":1, 
+            "changeable":1,
+             "timeout":30
+        },
+        {
+            "key":"drpy_js_趣盤搜",
+            "name":"影视 | 趣盘搜[js] | 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/funletu.js", 
+            "quickSearch":1, 
+            "changeable":1,
+             "timeout":30
+        },
+        {
+            "key": "push_quark(先停用)",
+            "name": "夸克推送",
+            "type": 3,
+            "api": "csp_Quark",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "changeable":0,
+            "ext": "./lib/quark.txt"
+        },
+        {
+            "key": "push_agent",
+            "name": "cli推送",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "filterable": 1,
+            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
+        },
+        {
+            "key": "lf_js_ikanbot",
+            "name": "点播 | lf_ikanbot",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./js/lf_ikanbot5_2_min.js"
+        },
         {
             "key": "77",
             "name": "👒七七┃App",
@@ -539,6 +525,55 @@
       "api": "csp_XBPQ",
       "ext": "./js/利播.json"
     },
+      {
+            "key": "drpy_js_荐片",
+            "name": "荐片[js]",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/荐片.js"
+            
+        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
         {
             "key": "菜狗.js",
             "name": "官源｜🐶搜狗❤️[js]",
