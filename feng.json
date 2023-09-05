@@ -20,7 +20,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
-       },
+       }, 
        {
             "key": "lf_js_search",
             "name": "搜索 | lf_search",
@@ -75,7 +75,7 @@
             "name": "🎬玩偶┃自营",
             "type": 3,
             "api": "csp_WoGG",
-            "changeable": 0,
+            "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
             "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
@@ -265,6 +265,160 @@
              "timeout":30
         },
         {
+            "key":"qimiao.js",
+            "name":"影视 | 奇妙搜| 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/qimiao.js", 
+            "quickSearch":1, 
+            "changeable":1
+        },
+        {
+            "key":"drpy_js_yyets",
+            "name":"影视 | 人人影视(搜索) | 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/yyets.js", 
+            "quickSearch":1, 
+            "changeable":1, 
+            "timeout":30
+        },
+        {
+            "key":"dydhhy.js",
+            "name":"影视 | dydhhy.js | 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/dydhhy.js", 
+            "quickSearch":1, 
+            "changeable":1, 
+            "timeout":30
+        },
+        {
+            "key":"drpy_js_libvio",
+            "name":"影视 | 利播| 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/libvio.js", 
+            "quickSearch":1, 
+            "changeable":1,
+             "timeout":30
+        },
+        {
+            "key":"ddys.js",
+            "name":"影视 | 低端| 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/ddys.js", 
+            "quickSearch":1, 
+            "changeable":1,
+             "timeout":30
+        },
+        {
+            "key":"tzfile.js",
+            "name":"影视 | 团长| 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/tzfile.js", 
+            "quickSearch":1, 
+            "changeable":1,
+             "timeout":30
+        },
+        {
+            "key":"drpy_js_校长影视",
+            "name":"影视 | 校长影视[js] | 夸",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/xzys.js", 
+            "quickSearch":1, 
+            "changeable":1, 
+            "timeout":30
+        },
+        {
+            "key": "drpy_js_4KHDR",
+            "name": "影视 | 4KHDR[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/4khdr.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_极影网",
+            "name": "影视 | 极影网[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/jiyingw.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_MP4US",
+            "name": "影视 | MP4电影[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/mp4us.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_cilixiong",
+            "name": "影视 | 磁力熊🐻[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/cilixiong.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_电影港",
+            "name": "影视 | 电影港[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/dygang.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key":"drpy_js_美剧迷",
+            "name":"影视 | 美剧迷[js] | 磁",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/meijumi.js",
+            "quickSearch":1, 
+            "changeable":1, 
+            "timeout":30
+        },
+        {
+            "key": "drpy_js_kk网盘",
+            "name": "KK网盘[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/kkpans.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout":30
+        },
+        {
+            "key": "drpy_js_酷吧",
+            "name": "酷吧[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/kuba.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_新版6V",
+            "name": "新版6V[js] | 磁",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/xb6v.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        
+        
+        {
             "key": "push_quark(先停用)",
             "name": "夸克推送",
             "type": 3,
@@ -297,6 +451,17 @@
             "api": "./js/lf_ikanbot5_2_min.js"
         },
         {
+            "key": "ikanbot3",
+            "name": "ikanbot3[道长js]",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+        },
+        {
             "key": "77",
             "name": "👒七七┃App",
             "type": 3,
@@ -304,17 +469,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"./jar/fty.jar"
-        },
-        {
-            "key": "专线",
-            "name": "🚅专线┃App",
-            "type": 3,
-            "api": "csp_ZhuanX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/",
             "jar":"./jar/fty.jar"
         },
         {
@@ -498,7 +652,7 @@
       "playerType": "1",
       "ext": "./js/tvb.json"
     },
-        
+       
         {
       "key": "热播库",
       "name": "热播┃BPQ",
@@ -533,47 +687,14 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/荐片.js"
-            
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
         },
         
         
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
         {
             "key": "菜狗.js",
             "name": "官源｜🐶搜狗❤️[js]",
@@ -581,8 +702,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/菜狗.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
         },
         {
             "key": "优酷.js",
@@ -591,8 +712,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/优酷.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
         },
         {
             "key": "腾云驾雾.js",
@@ -601,8 +722,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/腾云驾雾.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
         },
         {
             "key": "奇珍异兽.js",
@@ -611,8 +732,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/奇珍异兽.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
         },
         {
             "key": "360影视.js",
@@ -621,8 +742,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/360影视.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
         },
         {
             "key": "百忙无果.js",
@@ -631,8 +752,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/百忙无果.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
         },
         {
             "key": "如意.js",
@@ -641,8 +762,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/如意[V2].jsd"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/如意[V2].jsd"
         },
         {
             "key": "影视工场.js",
@@ -651,8 +772,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/影视工场.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影视工场.js"
         },
         {
             "key": "爱迪[V2].js",
@@ -661,8 +782,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/爱迪[V2].js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱迪[V2].js"
         },
         {
             "key": "大师兄影视.js",
@@ -671,8 +792,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/大师兄影视.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
         },
         {
             "key": "Qtv",
