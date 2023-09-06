@@ -861,7 +861,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./js/wogg_open.js",
-            "ext":"73f1c6cd2a6842649f65dd38e69dd9d5"
+            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
         },
         {
             "key": "czzy_open.js",
