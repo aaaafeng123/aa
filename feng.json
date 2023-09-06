@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;8b5a3281686994d1f65b05c49eb3cedd",
+    "spider": "./jar/fm.nogo.jar;74a5a106fc04cd34fb76b30081900a1e",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
       {
@@ -416,8 +416,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        
-        
+        {"key":"csp_YingShi","name":"影视","type":3,"api":"csp_YingShi","ext":"socks5://192.168.101.1:1080"},
         {
             "key": "push_quark(先停用)",
             "name": "夸克推送",
@@ -851,12 +850,26 @@
             "jar":"./jar/spider.jar"
         },
         {
+            "key": "wogg_open",
+            "name": "🐱玩偶哥哥",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./js/wogg_open.js",
+            "ext":"73f1c6cd2a6842649f65dd38e69dd9d5"
+        },
+        {
             "key": "czzy_open.js",
             "name": "🐱猫影视/厂长",
             "type": 3,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.59
             },
             "searchable": 1,
             "quickSearch": 1,
