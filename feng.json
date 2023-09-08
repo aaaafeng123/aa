@@ -39,7 +39,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
+            "ext":"af1682b01e6a4a528723a4d5f0a1f631"
         },
         {
             "key": "ali_cli",
@@ -49,7 +49,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
+            "ext": "af1682b01e6a4a528723a4d5f0a1f631"
         },
         {
             "key": "纸条",
@@ -59,7 +59,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
+            "ext":"af1682b01e6a4a528723a4d5f0a1f631"
         },
         {
             "key": "荐片",
@@ -78,8 +78,14 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
             "jar":"./jar/fty.jar"
+        },
+        {"key":"WoGG",
+        "name":"阿里 | 玩偶哥哥",
+        "type":3,
+        "api":"csp_Wogg(PG的玩偶哥哥)",
+        "ext":"./lib/token.txt$$$https://tvfan.xxooo.cf/"
         },
         {
             "key": "If_js_live",
@@ -154,7 +160,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar":"./jar/fty.jar",
-      "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|auto|fhd"
+      "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
     },
     {
       "key": "Zhaozy",
@@ -165,7 +171,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar":"./jar/fty.jar",
-      "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|auto|fhd$$$fanfan$$$qqq111"
+      "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd$$$fanfan$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -176,7 +182,7 @@
       "quickSearch": 1,
       "changeable": 0,
      "jar":"./jar/fty.jar",
-      "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|auto|fhd"
+      "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -187,7 +193,7 @@
       "quickSearch": 1,
       "changeable": 0,
      "jar":"./jar/fty.jar",
-      "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|auto|fhd"
+      "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
     },
     {
       "key": "PanSearch",
@@ -198,7 +204,7 @@
       "quickSearch": 1,
       "changeable": 0,
      "jar":"./jar/fty.jar",
-      "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|auto|fhd"
+      "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
     },
     {
       "key": "七夜",
@@ -209,7 +215,7 @@
       "quickSearch": 1,
       "changeable": 0,
      "jar":"./jar/fty.jar",
-      "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4+4k|auto|fhd"
+      "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
     },
         
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider香雅情.jar"},
@@ -457,8 +463,8 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+            "api": "https://fongmi.cachefly.net//hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net//hjdhnx/dr_py/main/js/ikanbot3.js"
         },
         {
             "key": "77",
@@ -861,7 +867,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./js/wogg.js",
-            "ext":"5e17be20ce8a4dc5860cfa8aa5dc84f4"
+            "ext":"af1682b01e6a4a528723a4d5f0a1f631"
         },
         {
             "key": "czzy_open.js",
