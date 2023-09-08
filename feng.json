@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;74a5a106fc04cd34fb76b30081900a1e",
+    "spider": "./jar/fm.nogo.jar;md5;74a5a106fc04cd34fb76b30081900a1e",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
       {
@@ -463,8 +463,8 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/ikanbot3.js"
+            "api": "https://fongmi.cachefly.net//hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net//hjdhnx/dr_py/main/js/ikanbot3.js"
         },
         {
             "key": "77",
