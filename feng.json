@@ -463,8 +463,8 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "https://fongmi.cachefly.net//hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net//hjdhnx/dr_py/main/js/ikanbot3.js"
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/ikanbot3.js"
         },
         {
             "key": "77",
