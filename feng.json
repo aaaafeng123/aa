@@ -39,7 +39,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631"
+            "ext": "f314833b42594f4ab793fd7d21e34f3f"
         },
         {
             "key": "ali_cli",
@@ -49,7 +49,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631"
+            "ext": "f314833b42594f4ab793fd7d21e34f3f"
         },
         {
             "key": "纸条",
@@ -59,7 +59,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631"
+            "ext": "f314833b42594f4ab793fd7d21e34f3f"
         },
         {
             "key": "荐片",
@@ -78,8 +78,8 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-            "jar": "./jar/fty.jar"
+            "ext": "f314833b42594f4ab793fd7d21e34f3f+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "WoGG",
@@ -157,6 +157,12 @@
             }
         },
         {
+            "key": "博看听书",
+            "name": "❤️听书(蜂蜜)🎁",
+            "type": 3,
+            "api": "./js/MyCatBookan.js"
+        },
+        {
             "key": "YiSo",
             "name": "😹易搜┃搜索",
             "type": 3,
@@ -165,7 +171,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "jar": "./jar/fty.jar",
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
+            "ext": "f314833b42594f4ab793fd7d21e34f3f+4k|auto|fhd"
         },
         {
             "key": "Zhaozy",
@@ -175,8 +181,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "./jar/fty.jar",
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd$$$fanfan$$$qqq111"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+            "ext": "f314833b42594f4ab793fd7d21e34f3f+4k|auto|fhd$$$fanfan$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -186,8 +192,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "./jar/fty.jar",
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+            "ext": "f314833b42594f4ab793fd7d21e34f3f+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -197,8 +203,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "./jar/fty.jar",
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+            "ext": "f314833b42594f4ab793fd7d21e34f3f+4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -208,8 +214,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "./jar/fty.jar",
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+            "ext": "f314833b42594f4ab793fd7d21e34f3f+4k|auto|fhd"
         },
         {
             "key": "七夜",
@@ -219,8 +225,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "./jar/fty.jar",
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631+4k|auto|fhd"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+            "ext": "f314833b42594f4ab793fd7d21e34f3f+4k|auto|fhd"
         },
         {
             "key": "Gitcafe",
@@ -342,6 +348,23 @@
             "ext": "./js/盘搜索.json"
         },
         {
+            "ext": "eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "小雅(中原一点红提供)🎈🎈",
+            "viewType": {
+                "style": {
+                    "type": "rect"
+                }
+            },
+            "changeable": 0,
+            "jar": "http://218.79.116.9:9245/spring.jar",
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
+        {
             "key": "push_agent(停用2)",
             "name": "推送 | lf_push停",
             "type": 3,
@@ -351,13 +374,6 @@
             "filterable": 0,
             "api": "./js/lf_pushagent1_5_min.js",
             "ext": "9bd4dc66b98b426e8f53ee72d9d23368"
-        },
-        {
-            "key": "csp_YingShi",
-            "name": "影视",
-            "type": 3,
-            "api": "csp_YingShi",
-            "ext": "socks5://192.168.101.1:1080"
         },
         {
             "key": "push_quark(先停用)",
@@ -413,6 +429,37 @@
             "jar": "./jar/fty.jar"
         },
         {
+            "key": "sp360",
+            "name": "360影视|解析",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "./jar/920.jar"
+        },
+        {
+            "key": "maolv_open",
+            "name": "影视|毛驴",
+            "type": 3,
+            "api": "csp_Maolv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+        },
+        {
+            "key": "YingShi",
+            "name": "影视",
+            "type": 3,
+            "api": "csp_YingShi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "url": "https://yingshi.tv/"
+        },
+        {
             "key": "迪迪",
             "name": "😎迪迪┃App",
             "api": "csp_AppYsV2",
@@ -421,6 +468,14 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key": "MX",
+            "name": "官方┃采集",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "http://154.12.90.7:86/api.php/app/",
+            "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9"
         },
         {
             "key": "陌陌",
@@ -783,20 +838,6 @@
             "jar": "./jar/spider.jar"
         },
         {
-            "key": "wogg_open",
-            "name": "🐱玩偶哥哥",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/wogg.js",
-            "ext": "af1682b01e6a4a528723a4d5f0a1f631"
-        },
-        {
             "key": "czzy_open.js",
             "name": "🐱猫影视/厂长",
             "type": 3,
@@ -834,19 +875,6 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "ikanbot_open",
-            "name": "🐱ikanbot",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/ikanbot_open.js"
         },
         {
             "key": "kkys_open",
@@ -1383,14 +1411,6 @@
             }
         },
         {
-            "key": "影图影视",
-            "name": "🥪影图影视(聚)",
-            "type": 1,
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "雨哥影视",
             "name": "🍟雨哥影视(聚)",
             "type": 1,
@@ -1399,34 +1419,32 @@
             "quickSearch": 0
         },
         {
-            "key": "阿里影视",
-            "name": "🥤阿里影视(聚)",
-            "type": 1,
-            "api": "http://aliys.cn:90/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "秒看资源",
-            "name": "秒看┃切片",
-            "type": 1,
-            "api": "https://mkzy.vip/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "综艺",
-                "电视剧",
-                "电影",
-                "动漫"
-            ]
-        },
-        {
             "key": "影图资源",
             "name": "影图资源(采)",
             "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 1,
             "changeable": "1",
+            "quickSearch": 1
+        },
+        {
+            "key": "萌番",
+            "name": "⭐️萌番 | 动漫",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "api": "https://www.mengfan.tv/api.php/provide/vod/",
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+            }
+        },
+        {
+            "key": "极速",
+            "name": "极速",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+            "searchable": 1,
             "quickSearch": 1
         },
         {
@@ -2030,6 +2048,15 @@
             ]
         },
         {
+            "key": "海外看",
+            "name": "🌼海外看",
+            "type": 1,
+            "api": "http://api.haiwaikan.com/v1/vod?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "非凡",
             "name": "非凡",
             "type": "0",
@@ -2126,50 +2153,49 @@
         }
     ],
     "doh": [
-    {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ]
-    },
-    {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ]
-    },
-    {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
-      "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ]
-    },
-    {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
-      "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
-      ]
-    },
-    {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
-      "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
-      ]
-    }
-  ],
-    
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
     "parses": [
         {
             "name": "Json并发",
@@ -2192,7 +2218,7 @@
             "url": "Web"
         },
         {
-            "name": "-虾米-",
+            "name": "-777-",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
             "ext": {
@@ -2374,9 +2400,35 @@
             }
         },
         {
-            "name": "-gg-",
+            "name": "-虾米-",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "-虾米2-",
+            "type": 0,
+            "url": "https://jx.xmflv.cc/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2530,7 +2582,7 @@
                 "haiwaikan"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXTINF:(0|1|2|7\\.90).*?\\s+.*?921c07e8bfad6789.*?\\.ts\\s+"
             ]
         },
         {
@@ -2568,12 +2620,10 @@
         {
             "name": "极速",
             "hosts": [
-                "vip.js",
-                "hd.js"
+                "jszy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
