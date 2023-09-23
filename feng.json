@@ -348,7 +348,7 @@
             "ext": "./js/盘搜索.json"
         },
         {
-            "ext": "eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==",
+            "ext": "eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "小雅(中原一点红提供)🎈🎈",
@@ -358,11 +358,44 @@
                 }
             },
             "changeable": 0,
-            "jar": "http://218.79.116.9:9245/spring.jar",
+            "jar": "http://27.14.12.234:4567/spring.jar",
             "api": "csp_XiaoYa",
             "type": 3,
             "key": "csp_XiaoYa",
             "searchable": 1
+        },
+        {
+            "key": "csp_Alistxy",
+            "name": "🅿️Alist网盘",
+            "type": 3,
+            "api": "csp_AListxy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "drives": [
+                    {
+                        "name": "小雅搜索1",
+                        "server": "http://124.71.206.236:5678",
+                        "version": 3
+                    },
+                    {
+                        "name": "小雅搜索2",
+                        "server": "http://112.10.205.74:5678",
+                        "version": 3
+                    },
+                    {
+                        "name": "小雅搜索3",
+                        "server": "http://182.120.114.23:5678",
+                        "version": 3
+                    },
+                    {
+                        "name": "小雅搜索4",
+                        "server": "https://222.248.200.97:8765",
+                        "version": 3
+                    }
+                ]
+            },
+            "jar": "./jar/小雅搜索.jar"
         },
         {
             "key": "push_agent(停用2)",
@@ -1077,7 +1110,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/迅雷XYQH.json",
-            "jar": "./jar/香雅情.jar"
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "南瓜",
@@ -1117,7 +1150,7 @@
             "type": 3,
             "api": "csp_AppYs",
             "ext": "http://video.myshangdian.top/icciu_api.php/v1.vod",
-            "jar": "./jar/香雅情.jar"
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "黑狐",
