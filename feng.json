@@ -408,7 +408,7 @@
             "jar": "./jar/小雅搜索.jar"
         },
         {
-            "key": "push_agent❤️❤️",
+            "key": "push_agent",
             "name": "pg推送",
             "type": 3,
             "api": "csp_Push",
@@ -417,6 +417,51 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "./pg推送.json"
+        },
+        {
+            "key": "aipanso.js",
+            "name": "pg| 爱盘搜| 夸",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./(PG)js/aipanso.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "funletu.js",
+            "name": "pg| 趣盘搜| 夸",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./(PG)js/funletu.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "yyets.js",
+            "name": "pg| 人人影视| [搜] ",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./(PG)js/yyets.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "qimiao.js",
+            "name": "pg| 奇妙搜|[夸] ",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./(PG)js/qimiao.js",
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "meow.js",
+            "name": "pg| meow|[搜] ",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./(PG)js/meow.js",
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "push_agent(停用14)",
