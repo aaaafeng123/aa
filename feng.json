@@ -213,7 +213,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd$$$fanfan$$$qqq111"
+            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd$$$fantaiying$$$qqq111",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "PanSou",
@@ -651,7 +652,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://22222.yiyingys.asia/api.php/app/",
+            "ext": "https://api123.adys.app/xgapp.php/v3/",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -712,6 +713,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "ext": "https://cz01.cc/",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -776,6 +778,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "ext": "http://www.aueteys.com/",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -3375,9 +3378,9 @@
             }
         },
         {
-            "name": "-kk-",
+            "name": "-bl解析-",
             "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "url": "https://vip.bljiex.com/?v=",
             "ext": {
                 "flag": [
                     "qq",
@@ -3566,6 +3569,7 @@
         "qiyi",
         "letv",
         "sohu",
+        "搜狐",
         "搜 狐",
         "搜狐视频",
         "tudou",
