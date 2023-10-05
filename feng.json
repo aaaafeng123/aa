@@ -713,7 +713,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cz01.cc/",
+            "ext": "https://www.cz0101.com/",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -735,7 +735,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.zxzj.pro/",
+            "ext": "https://www.zxzjhd.com",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -778,7 +778,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://www.aueteys.com/",
+            "ext": "http://www.aueteys.com",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -875,6 +875,56 @@
             },
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+        },
+        {
+            "key": "抓饭体育.js",
+            "name": "｜抓饭体育[js]",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/抓饭体育.js"
+        },
+        {
+            "key": "快看.js",
+            "name": "｜快看[js]",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/快看.js"
+        },
+        {
+            "key": "我的哔哩.js",
+            "name": "｜我的哔哩[js]",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"
+        },
+        {
+            "key": "影探[V2].js",
+            "name": "｜影探[V2].js",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影探[V2].js"
+        },
+        {
+            "key": "奈飞中文.js",
+            "name": "｜奈飞中文❤️[js]",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奈飞中文.js"
         },
         {
             "key": "菜狗.js",
@@ -1164,7 +1214,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影视工场.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.js"
         },
         {
             "key": "爱迪[V2].js",
@@ -3092,16 +3142,6 @@
     ],
     "parses": [
         {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
             "name": "-夜幕-",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
@@ -3125,6 +3165,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3142,8 +3183,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3171,6 +3217,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3188,8 +3235,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3217,6 +3269,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3234,8 +3287,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3263,6 +3321,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3280,8 +3339,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3309,6 +3373,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3326,8 +3391,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3355,6 +3425,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3372,15 +3443,20 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
         {
-            "name": "-bl解析-",
+            "name": "-777-",
             "type": 0,
-            "url": "https://vip.bljiex.com/?v=",
+            "url": "https://jx.jsonplayer.com/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -3401,6 +3477,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3418,8 +3495,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3447,6 +3529,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3464,8 +3547,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3493,6 +3581,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3510,8 +3599,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         },
@@ -3539,6 +3633,7 @@
                     "pptv",
                     "PPTV",
                     "sohu",
+                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -3556,8 +3651,13 @@
                     "iqiyi",
                     "奇 艺",
                     "m1905",
+                    "1905",
                     "xigua",
-                    "leshi"
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
                 ]
             }
         }
@@ -3580,6 +3680,7 @@
         "bilibili",
         "renrenmi",
         "m1905",
+        "1905",
         "xigua",
         "leshi",
         "腾 讯",
@@ -3603,7 +3704,11 @@
         "优酷视频",
         "芒果",
         "乐视",
-        "奇艺"
+        "奇艺",
+        "douyin",
+        "wasu",
+        "tudou",
+        "LS"
     ],
     "rules": [
         {
