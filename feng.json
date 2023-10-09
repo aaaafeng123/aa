@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;a35075859bab4c8e3619e46f3353a7f7",
+    "spider": "./jar/fm.nogo.jar;md5;337adb50039db7fc01db3c84efea5ac6",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -395,7 +395,7 @@
                 }
             },
             "changeable": 0,
-            "jar": "http://27.14.12.234:4567/spring.jar",
+            "jar": "http://124.70.208.192:5678//spring.jar",
             "api": "csp_XiaoYa",
             "type": 3,
             "key": "csp_XiaoYa",
@@ -412,22 +412,22 @@
                 "drives": [
                     {
                         "name": "小雅搜索1",
-                        "server": "http://124.71.206.236:5678",
+                        "server": "http://111.224.125.93:5678/",
                         "version": 3
                     },
                     {
                         "name": "小雅搜索2",
-                        "server": "http://112.10.205.74:5678",
+                        "server": "http://8.130.43.52:5678/",
                         "version": 3
                     },
                     {
                         "name": "小雅搜索3",
-                        "server": "http://182.120.114.23:5678",
+                        "server": "http://119.3.122.116:5678/",
                         "version": 3
                     },
                     {
                         "name": "小雅搜索4",
-                        "server": "https://222.248.200.97:8765",
+                        "server": "http://60.187.32.211:5678/",
                         "version": 3
                     }
                 ]
@@ -618,10 +618,7 @@
             "name": "pg|影巢🥕",
             "type": 3,
             "api": "csp_Hdhive",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "ext": "./pg推送.json"
         },
         {
             "key": "maolv_open",
@@ -678,12 +675,33 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
+            "key": "毛驴",
+            "name": "🍓毛驴┃直连",
+            "type": 3,
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+        },
+        {
             "key": "MX",
             "name": "官方┃采集",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "http://154.12.90.7:86/api.php/app/",
             "jar": "./jar/5小米.jar;md5;c570b052645834a1109b54421c1552f9"
+        },
+        {
+            "key": "一起看 ",
+            "name": "🎉一起┃App",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "kuaikan",
