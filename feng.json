@@ -277,10 +277,34 @@
             "jar": "./jar/custom_spider香雅情.jar"
         },
         {
+            "key": "csp_Zhaozy",
+            "name": "📀找资源(搜索)",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "./jar/custom_spider香雅情.jar",
+            "ext": "./alitoken.txt"
+        },
+        {
             "key": "csp_AliPS",
             "name": "📀喵狸盘搜(搜索)",
             "type": 3,
             "api": "csp_AliPS",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "./jar/custom_spider香雅情.jar",
+            "ext": "./alitoken.txt"
+        },
+        {
+            "key": "csp_Yisou",
+            "name": "📀易搜(搜索)",
+            "type": 3,
+            "api": "csp_Yisou",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -574,13 +598,26 @@
         },
         {
             "key": "sp360",
-            "name": "360影视|解析",
+            "name": "360影视|解析(ok佬)🎈",
             "type": 3,
             "api": "csp_Sp360",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./jar/921.jar"
+            "jar": "./jar/101103.jar"
+        },
+        {
+            "key": "jojo",
+            "name": "JOJO弹幕版(ok佬)🎈",
+            "type": 3,
+            "api": "csp_Jojo",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/101103.jar"
         },
         {
             "key": "Mayiys",
@@ -2064,17 +2101,6 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar"
         },
         {
-            "key": "jojo_",
-            "name": "JOJO🎈",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/JOJO.json",
-            "jar": "./jar/custom_spider香雅情.jar"
-        },
-        {
             "key": "ker_迅雷",
             "name": "迅雷",
             "type": 3,
@@ -3170,6 +3196,11 @@
         }
     ],
     "parses": [
+        {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
         {
             "name": "-夜幕-",
             "type": 0,
