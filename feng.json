@@ -604,11 +604,14 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./jar/101103.jar"
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/1012.jar"
         },
         {
             "key": "jojo",
-            "name": "JOJO弹幕版(ok佬)🎈",
+            "name": "JOJO弹幕版",
             "type": 3,
             "api": "csp_Jojo",
             "searchable": 1,
@@ -617,7 +620,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./jar/101103.jar"
+            "jar": "./jar/1012.jar"
         },
         {
             "key": "Mayiys",
@@ -1337,6 +1340,12 @@
             "api": "csp_XBPQ",
             "ext": "./js/虎虎.json",
             "jar": "./jar/pandaQ230823肥猫.jar"
+        },
+        {
+            "key": "jojo🐱",
+            "name": "❤️❤️┃JOJO｜游走",
+            "type": 3,
+            "api": "./js/jiohub.js"
         },
         {
             "key": "czzy_open.js",
@@ -2548,6 +2557,7 @@
             "filterable": "1",
             "changeable": "1",
             "quickSearch": 1,
+            "timeout": 120,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
