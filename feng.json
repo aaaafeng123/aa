@@ -597,6 +597,19 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
+        "key":"jojo弹幕直连",
+        "name":"JOJO弹幕版|直连",
+        "type":3,
+        "api":"csp_Jiohub",
+        "searchable":1,
+        "filterable":1,
+        "changeable":1,
+        "ext":{
+        "danmu":true
+        },
+        "jar": "./jar/1013.jar"
+        },
+        {
             "key": "sp360",
             "name": "360影视|解析(ok佬)🎈",
             "type": 3,
@@ -607,20 +620,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./jar/1012.jar"
-        },
-        {
-            "key": "jojo",
-            "name": "JOJO弹幕版",
-            "type": 3,
-            "api": "csp_Jojo",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./jar/1012.jar"
+            "jar": "./jar/1013.jar"
         },
         {
             "key": "Mayiys",
