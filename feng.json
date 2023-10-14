@@ -48,7 +48,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "ali_cli",
@@ -59,7 +59,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "纸条",
@@ -70,7 +70,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "csp_WoGG",
@@ -80,7 +80,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd",
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -92,7 +92,7 @@
             "changeable": 0,
             "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "32d2c8f5b5674bac8fb3602b56e4a05a",
+                "token": "2ed6297e329c4895baa8a7376c082a67",
                 "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
@@ -203,7 +203,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
         },
         {
             "key": "Zhaozy",
@@ -213,7 +213,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd$$$fantaiying$$$qqq111",
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd$$$fantaiying$$$qqq111",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -224,7 +224,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -234,7 +234,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -244,7 +244,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
         },
         {
             "key": "七夜",
@@ -254,7 +254,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
         },
         {
             "key": "紙條搜",
@@ -263,7 +263,7 @@
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 0,
-            "ext": "32d2c8f5b5674bac8fb3602b56e4a05a"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "Gitcafe",
