@@ -597,17 +597,17 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
-        "key":"jojo弹幕直连",
-        "name":"JOJO弹幕版|直连",
-        "type":3,
-        "api":"csp_Jiohub",
-        "searchable":1,
-        "filterable":1,
-        "changeable":1,
-        "ext":{
-        "danmu":true
-        },
-        "jar": "./jar/1013.jar"
+            "key": "jojo弹幕直连",
+            "name": "JOJO弹幕版|直连",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/1013.jar"
         },
         {
             "key": "sp360",
@@ -621,6 +621,18 @@
                 "danmu": true
             },
             "jar": "./jar/1013.jar"
+        },
+        {
+            "key": "csp_XYQHiker_JOJO",
+            "name": "📀JOJO",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/JOJO.json",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "Mayiys",
