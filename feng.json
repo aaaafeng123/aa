@@ -1329,19 +1329,6 @@
             "api": "./js/jiohub.js"
         },
         {
-            "key": "czzy_open.js",
-            "name": "🐱猫影视/厂长",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.59
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/czzy_open.js"
-        },
-        {
             "key": "kunyu77_open",
             "name": "🐱kunyu77",
             "type": 3,
@@ -1353,29 +1340,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./js/kunyu77_open.js"
-        },
-        {
-            "key": "open_js_琨魚",
-            "name": "琨魚",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kunyu77_open.js",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "kkys_open",
-            "name": "🐱快看",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "api": "./js/kkys_open.js"
         },
         {
             "key": "酷奇MV_open",
@@ -1438,16 +1402,6 @@
             "api": "./js/boosj_open.js"
         },
         {
-            "key": "在线之家_open",
-            "name": "🐱在线之家",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "api": "./js/zxzj_open.js"
-        },
-        {
             "key": "Libvio_open",
             "name": "🐱Libvio",
             "type": 3,
@@ -1466,16 +1420,6 @@
                 "ratio": 1.33
             },
             "api": "./js/sharenice_open.js"
-        },
-        {
-            "key": "独播库_open",
-            "name": "🐱独播库",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "api": "./js/duboku_open.js"
         },
         {
             "key": "南瓜影视_open",
@@ -1656,6 +1600,60 @@
             "quickSearch": 1
         },
         {
+            "key": "极光资源",
+            "name": "极光资源(采)",
+            "type": 1,
+            "api": "https://www.jiguang.la/api.php/provide/vod"
+        },
+        {
+            "key": "49资源",
+            "name": "49资源(采)",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "虎牙资源",
+            "name": "虎牙资源(采)",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/at/json"
+        },
+        {
+            "key": "大漠资源",
+            "name": "大漠资源(采)",
+            "type": 1,
+            "api": "https://damozy.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "最大资源",
+            "name": "最大资源(采)",
+            "type": 1,
+            "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/"
+        },
+        {
+            "key": "豪华资源",
+            "name": "豪华资源(采)",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "全站资源",
+            "name": "全站资源(采)",
+            "type": 1,
+            "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "享看资源",
+            "name": "享看资源(采)",
+            "type": 1,
+            "api": "https://xkanzy10.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "速播资源",
+            "name": "速播资源(采)",
+            "type": 1,
+            "api": "https://subocaiji.com/api.php/provide/vod"
+        },
+        {
             "key": "极速",
             "name": "极速",
             "type": 1,
@@ -1710,9 +1708,9 @@
         {
             "key": "索尼采集",
             "name": "索尼资源网",
-            "type": 1,
-            "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/",
-            "playUrl": "https://www.snplayer.com/?url=",
+            "type": 0,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
+            "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -1765,7 +1763,7 @@
             "name": "奇虎资源",
             "type": 0,
             "api": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/at/xml/",
-            "playUrl": "https://jiexi.qhzyapi.com/ali/?url=",
+            "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -1816,11 +1814,12 @@
         {
             "key": "魔都采集",
             "name": "魔都资源",
-            "type": 1,
-            "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://jiexi.modujx01.com/?url=",
+            "type": 0,
+            "api": "https://www.moduzy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
+            "timeout": 120,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -1971,7 +1970,7 @@
             "name": "无尽采集",
             "type": "0",
             "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
-            "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2055,7 +2054,7 @@
             "name": "闪电釆集",
             "type": "0",
             "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/",
-            "playUrl": "https://www.shankubf.com/m3u8/?url=",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2179,7 +2178,7 @@
             "name": "红牛釆集",
             "type": "0",
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
-            "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2221,7 +2220,7 @@
             "name": "金鹰釆集",
             "type": "1",
             "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
-            "playUrl": "https://hd.iapijy.com/play?url=",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2261,9 +2260,9 @@
         {
             "key": "天空釆集",
             "name": "天空釆集",
-            "type": "1",
-            "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://jx.huishij.com/yun/?url=",
+            "type": "0",
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/at/xml/",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2305,7 +2304,7 @@
             "name": "新浪釆集",
             "type": "0",
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
-            "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2347,7 +2346,7 @@
             "name": "快车采集",
             "type": "1",
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2389,7 +2388,7 @@
             "name": "光速采集",
             "type": "0",
             "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
-            "playUrl": "https://www.gszyv.com/m3u8/?url=",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -2520,7 +2519,7 @@
             "name": "量子",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-            "playUrl": "https://lziplayer.com/?url=",
+            "playUrl": "",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
