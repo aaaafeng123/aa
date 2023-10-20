@@ -90,10 +90,10 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
                 "token": "2ed6297e329c4895baa8a7376c082a67",
-                "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
         {
@@ -113,8 +113,8 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/jianpian.json"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
         },
         {
             "key": "WoGG",
@@ -186,7 +186,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
                 "type": "帕梅拉#太极拳#广场舞#演唱会",
                 "cookie": ""
             }
@@ -429,7 +429,7 @@
                 }
             },
             "changeable": 0,
-            "jar": "http://124.70.208.192:5678//spring.jar",
+            "jar": "http://111.170.126.147:5678/spring.jar",
             "api": "csp_XiaoYa",
             "type": 3,
             "key": "csp_XiaoYa",
@@ -446,22 +446,22 @@
                 "drives": [
                     {
                         "name": "小雅搜索1",
-                        "server": "http://111.224.125.93:5678/",
+                        "server": "http://111.224.106.109:5678/",
                         "version": 3
                     },
                     {
                         "name": "小雅搜索2",
-                        "server": "http://8.130.43.52:5678/",
+                        "server": "http://42.193.116.100:5678/",
                         "version": 3
                     },
                     {
                         "name": "小雅搜索3",
-                        "server": "http://119.3.122.116:5678/",
+                        "server": "http://112.193.0.49:5678/",
                         "version": 3
                     },
                     {
                         "name": "小雅搜索4",
-                        "server": "http://60.187.32.211:5678/",
+                        "server": "http://221.15.196.78:5678/",
                         "version": 3
                     }
                 ]
