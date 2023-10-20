@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;337adb50039db7fc01db3c84efea5ac6",
+    "spider": "./jar/fm.nogo.jar;md5;e9ed7907360e5d2c80dc6043f78e00ed",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -478,6 +478,40 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "./pg推送.json"
+        },
+        {
+            "key": "Wobg",
+            "name": "阿里|玩偶表哥",
+            "type": 3,
+            "api": "csp_Wobg",
+            "ext": "./pg推送.json"
+        },
+        {
+            "key": "Hdhive｜cps",
+            "name": "阿里|影巢cps",
+            "type": 3,
+            "api": "csp_Hdhive",
+            "ext": "./pg推送.json"
+        },
+        {
+            "key": "4KHDR｜cps",
+            "name": "4KHDR|网盘cps",
+            "type": 3,
+            "api": "csp_FourKHDR",
+            "ext": "./pg推送.json$$$./lib/4khdr.txt",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "校长影视cps",
+            "name": "校长影视|网盘cps",
+            "type": 3,
+            "api": "csp_XiaoZhang",
+            "ext": "./pg推送.json",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30
         },
         {
             "key": "aipanso.js",
