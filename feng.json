@@ -213,7 +213,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "Zhaozy",
@@ -234,7 +235,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "UpYun",
@@ -244,7 +245,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "PanSearch",
@@ -254,7 +255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "七夜",
@@ -264,7 +265,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd"
+            "ext": "2ed6297e329c4895baa8a7376c082a67"
         },
         {
             "key": "紙條搜",
@@ -284,7 +285,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "./jar/custom_spider香雅情.jar",
+            "ext": "./alitoken.txt"
         },
         {
             "key": "csp_Zhaozy",
@@ -417,23 +419,6 @@
             "filterable": 1,
             "jar": "./jar/custom_spider香雅情.jar",
             "ext": "./js/盘搜索.json"
-        },
-        {
-            "ext": "eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "小雅(中原一点红提供)🎈🎈",
-            "viewType": {
-                "style": {
-                    "type": "rect"
-                }
-            },
-            "changeable": 0,
-            "jar": "http://111.170.126.147:5678/spring.jar",
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
         },
         {
             "key": "csp_Alistxy",
@@ -630,16 +615,6 @@
             "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
         },
         {
-            "key": "lf_js_ikanbot",
-            "name": "点播 | lf_ikanbot",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/lf_ikanbot5_2_min.js"
-        },
-        {
             "key": "ikanbot3",
             "name": "爱看机器人[道长js]",
             "type": 3,
@@ -649,6 +624,16 @@
             },
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+        },
+        {
+            "key": "csp_Ikanbot",
+            "name": "👾Ikanbot",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "泥巴",
