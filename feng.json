@@ -17,17 +17,8 @@
             "key": "drpy_js_豆瓣",
             "name": "豆瓣 | 热播[js]",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
-        },
-        {
-            "key": "t4佬",
-            "name": "🍀┃豆瓣精选",
-            "type": 1,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
         {
             "key": "lf_js_search",
@@ -224,7 +215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd$$$fantaiying$$$qqq111",
+            "ext": "2ed6297e329c4895baa8a7376c082a67+4k|auto|fhd$$$fanty$$$qqq111",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -490,7 +481,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://103.222.188.33:6688"
+            "ext": ""
         },
         {
             "key": "Maolv",
@@ -703,7 +694,7 @@
         },
         {
             "key": "jojo弹幕直连",
-            "name": "JOJO弹幕版|直连",
+            "name": "JOJO弹幕版|直连ok",
             "type": 3,
             "api": "csp_Jiohub",
             "searchable": 1,
@@ -712,7 +703,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./jar/1013.jar"
+            "jar": "./jar/1022.jar"
         },
         {
             "key": "sp360",
@@ -725,7 +716,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./jar/1013.jar"
+            "jar": "./jar/1022.jar"
         },
         {
             "key": "csp_XYQHiker_JOJO",
@@ -895,7 +886,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.pro/",
+            "ext": "https://www.libvio.pro",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -2879,9 +2870,9 @@
         {
             "key": "无尽釆集",
             "name": "无尽采集",
-            "type": "0",
-            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
-            "playUrl": "",
+            "type": "1",
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
+            "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -4405,9 +4396,9 @@
             }
         },
         {
-            "name": "左岸",
-            "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "name": "咸鱼",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url=",
             "ext": {
                 "flag": [
                     "qq",
