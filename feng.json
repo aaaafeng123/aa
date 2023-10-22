@@ -537,6 +537,44 @@
             "timeout": 30
         },
         {
+            "key": "团长资源csp",
+            "name": "团长资源|网盘csp",
+            "type": 3,
+            "api": "csp_TZFile",
+            "ext": "./pg推送.json$$$null$$$1",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30
+        },
+        {
+            "key": "csp_Sp360",
+            "name": "360影视┃弹幕",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
+            "key": "csp_Jojo",
+            "name": "JOJO┃弹幕",
+            "type": 3,
+            "api": "csp_Jojo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
             "key": "aipanso.js",
             "name": "pg| 爱盘搜| 夸",
             "type": 3,
@@ -3951,9 +3989,9 @@
             }
         },
         {
-            "name": "-8090-",
-            "type": 0,
-            "url": "https://www.8090g.cn/?url=",
+            "name": "-世界-",
+            "type": 1,
+            "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -4265,7 +4303,7 @@
         {
             "name": "@饭特析@",
             "type": 1,
-            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url=",
+            "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -4367,9 +4405,9 @@
             }
         },
         {
-            "name": "全部",
+            "name": "左岸",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
             "ext": {
                 "flag": [
                     "qq",
