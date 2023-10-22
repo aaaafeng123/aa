@@ -1384,7 +1384,7 @@
             "key": "jojo🐱",
             "name": "❤️❤️┃JOJO｜游走",
             "type": 3,
-            "api": "./js/jiohub.js"
+            "api": "./js/jiohub_open.js"
         },
         {
             "key": "huya",
