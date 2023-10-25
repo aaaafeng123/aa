@@ -566,6 +566,16 @@
             "timeout": 30
         },
         {
+            "key": "Ppxzy",
+            "name": "皮皮虾|网盘",
+            "type": 3,
+            "api": "csp_Ppxzy",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": "./pg推送.json$$$https://ppxzy.net/$$$null$$$1"
+        },
+        {
             "key": "aipanso.js",
             "name": "pg| 爱盘搜| 夸",
             "type": 3,
