@@ -552,20 +552,6 @@
             "timeout": 30
         },
         {
-            "key": "csp_Jojo",
-            "name": "JOJO┃弹幕",
-            "type": 3,
-            "api": "csp_Jojo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 30
-        },
-        {
             "key": "Ppxzy",
             "name": "皮皮虾|网盘",
             "type": 3,
@@ -703,19 +689,6 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
-            "key": "jojo弹幕直连",
-            "name": "JOJO弹幕版|直连ok",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./jar/1023.jar"
-        },
-        {
             "key": "sp360",
             "name": "360影视|解析(ok佬)🎈",
             "type": 3,
@@ -727,18 +700,6 @@
                 "danmu": true
             },
             "jar": "./jar/1023.jar"
-        },
-        {
-            "key": "csp_XYQHiker_JOJO",
-            "name": "📀JOJO",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/JOJO.json",
-            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "maolv_open",
@@ -3812,8 +3773,7 @@
         {
             "name": "直播",
             "type": 0,
-            "playerType": 1,
-            "url": "hhttps://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
