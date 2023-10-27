@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;377fb59b7bc07595b5cb60bbebe2b9ea",
+    "spider": "./jar/fm.nogo.jar;md5;a120ea4deac5ec9ff0fcb03a81f89f63",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -512,7 +512,7 @@
             "name": "4KHDR|网盘cps",
             "type": 3,
             "api": "csp_FourKHDR",
-            "ext": "./pg推送.json$$$./lib/4khdr.txt",
+            "ext": "./pg推送.json$$$./lib/4khdr.txt$$$1",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -819,7 +819,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czz9.com/",
+            "ext": "https://www.czzy88.com/",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -1552,8 +1552,8 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
         },
         {
             "key": "零度",
@@ -4635,6 +4635,7 @@
                 "my.duboku.vip",
                 "bokux.com",
                 "uhibo.com",
+                ".*nivod.*",
                 "boku.com"
             ]
         },
