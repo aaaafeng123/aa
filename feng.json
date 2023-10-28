@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;a120ea4deac5ec9ff0fcb03a81f89f63",
+    "spider": "./jar/fm.nogo.jar;md5;4f30a6375164319d39110bf28e34094a",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -560,6 +560,16 @@
             "changeable": 1,
             "filterable": 1,
             "ext": "./pg推送.json$$$https://ppxzy.net/$$$null$$$1"
+        },
+        {
+            "key": "新6V",
+            "name": "新6V|网盘",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./pg推送.json"
         },
         {
             "key": "aipanso.js",
@@ -2772,9 +2782,9 @@
         {
             "key": "无尽釆集",
             "name": "无尽采集",
-            "type": "1",
-            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
-            "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
+            "type": "0",
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
+            "playUrl": "",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
