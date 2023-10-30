@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;1f6d8c193f00511e30a49618cce314de",
+    "spider": "./jar/fm.nogo.jar;md5;0d07ed239415b867d580930ebb659199",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -11,7 +11,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "drpy_js_豆瓣",
@@ -72,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "ae92b04b8f804351aa3590265aaadf95+4k|auto|fhd",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "玩偶",
@@ -205,7 +205,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "ae92b04b8f804351aa3590265aaadf95",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "Zhaozy",
@@ -216,7 +216,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "ae92b04b8f804351aa3590265aaadf95+4k|auto|fhd$$$fanty$$$qqq111",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "PanSou",
@@ -659,15 +659,29 @@
             "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
         },
         {
-            "key": "ikanbot3",
-            "name": "爱看机器人[道长js]",
+            "key": "ikanbot",
+            "name": "🎁爱看机器人[道长js]",
             "type": 3,
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看机器人.js"
+        },
+        {
+            "key": "ikanbot2.js",
+            "name": "🎁爱看机器人2[道长js]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+        },
+        {
+            "key": "ikanbot3.js",
+            "name": "爱看机器人3[道长js]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
         },
         {
             "key": "csp_Ikanbot",
@@ -876,7 +890,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.pro",
+            "ext": "https://www.libvio.pro/",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -899,17 +913,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "🏭工场┃直连",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.ysgc1.cc/",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -953,6 +956,21 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
+            "key": "csp_XPath_企鹅体育",
+            "name": "🐧企鹅┃体育",
+            "type": 3,
+            "api": "csp_XPath",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json",
+            "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+        },
+        {
             "key": "drpy_js_荐片",
             "name": "🎁荐片[js]",
             "type": 3,
@@ -982,6 +1000,46 @@
             "quickSearch": 1,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
+        },
+        {
+            "key": "310直播.js",
+            "name": "｜310直播[js]",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"
+        },
+        {
+            "key": "88看球.js",
+            "name": "｜88看球[js]",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
+        },
+        {
+            "key": "JRS看球网.jsd",
+            "name": "｜JRS看球网.jsd",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRS看球网.jsd"
+        },
+        {
+            "key": "JRS看直播.jsd",
+            "name": "｜JRS看直播.jsd",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRS看直播.jsd"
         },
         {
             "key": "快看.js",
@@ -1085,10 +1143,10 @@
         },
         {
             "key": "drpy_js_人人",
-            "name": "影视 | 人人[js]",
+            "name": "影视 | 人人.jsd",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人.jsd"
         },
         {
             "key": "drpy_js_低端",
@@ -1106,10 +1164,10 @@
         },
         {
             "key": "drpy_js_大豆",
-            "name": "影视 | 大豆[js]",
+            "name": "影视 | 大豆.jsd",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.jsd"
         },
         {
             "key": "drpy_js_网飞.TV",
@@ -1127,10 +1185,17 @@
         },
         {
             "key": "drpy_js_无名小站",
-            "name": "影视 | 无名小站[js]",
+            "name": "影视 | 无名小站.jsd",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/无名小站.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/无名小站.jsd"
+        },
+        {
+            "key": "drpy_js_影探[V2].js",
+            "name": "影视 | 影探[V2].js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影探[V2].js"
         },
         {
             "key": "drpy_js_厂长资源",
@@ -1203,18 +1268,11 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/路漫漫.js"
         },
         {
-            "key": "drpy_js_咕噜咕噜",
-            "name": "动漫 | 咕噜咕噜[js]",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜咕噜.js"
-        },
-        {
             "key": "drpy_js_嘶哩嘶哩",
-            "name": "动漫 | 嘶哩嘶哩[js]",
+            "name": "动漫 | 嘶哩嘶哩.jsd",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.jsd"
         },
         {
             "key": "drpy_js_奇米动漫",
@@ -1246,31 +1304,129 @@
         },
         {
             "key": "drpy_js_omofun动漫",
-            "name": "动漫 | omofun动漫[js]",
+            "name": "动漫 | omofun动漫.jsd",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/omofun动漫.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/omofun动漫.jsd"
         },
         {
-            "key": "drpy_js_555影视[V2]",
-            "name": "影视 | 555影视[V2][js]",
+            "key": "drpy_js_AGE动漫",
+            "name": "动漫 | AGE动漫",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555影视[V2].js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/AGE动漫"
         },
         {
-            "key": "drpy_js_布雷蓝光",
-            "name": "影视 | 布雷蓝光[js]",
+            "key": "drpy_js_58动漫.js",
+            "name": "动漫 | 58动漫.js",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/布雷蓝光.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/58动漫.js"
+        },
+        {
+            "key": "drpy_js_宫下动漫.jsd",
+            "name": "动漫 | 宫下动漫.jsd",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/宫下动漫.jsd"
+        },
+        {
+            "key": "drpy_js_曲奇动漫.js",
+            "name": "动漫 | 曲奇动漫.js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/曲奇动漫.js"
+        },
+        {
+            "key": "drpy_js_风车动漫.jsd",
+            "name": "动漫 | 风车动漫.jsd",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/风车动漫.jsd"
+        },
+        {
+            "key": "drpy_js_蘑菇.js",
+            "name": "蘑菇.js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蘑菇.js"
+        },
+        {
+            "key": "drpy_js_新视觉影视网.js",
+            "name": "新视觉影视网.js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视网"
+        },
+        {
+            "key": "drpy_js_咕噜[V2].js",
+            "name": "咕噜[V2].js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜[V2].js"
+        },
+        {
+            "key": "drpy_js_达达龟.js",
+            "name": "达达龟.js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/达达龟.js"
+        },
+        {
+            "key": "drpy_js_往往影视.jsd",
+            "name": "往往影视.jsd",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/往往影视.jsd"
+        },
+        {
+            "key": "drpy_js_南瓜影视.js",
+            "name": "南瓜影视.js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/南瓜影视.js"
+        },
+        {
+            "key": "drpy_js_北极狐[V2].js",
+            "name": "北极狐[V2].js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/北极狐[V2].js"
+        },
+        {
+            "key": "drpy_js_素白白.js",
+            "name": "素白白.js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/素白白.js"
+        },
+        {
+            "key": "drpy_js_石榴影院.jsd",
+            "name": "石榴影院.jsd",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/石榴影院.jsd"
+        },
+        {
+            "key": "drpy_js_555电影[V2]",
+            "name": "影视 | 555电影[V2][js]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js"
+        },
+        {
+            "key": "drpy_js_布雷蓝光.jsd",
+            "name": "影视 | 布雷蓝光.jsd",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/布雷蓝光.jsd"
         },
         {
             "key": "drpy_js_蓝光影院",
-            "name": "影视 | 蓝光影院[js]",
+            "name": "影视 | 蓝光影院.jsd",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蓝光影院.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蓝光影院.jsd"
         },
         {
             "key": "drpy_js_胖虎影视",
@@ -1284,14 +1440,14 @@
             "name": "影视 | 天空影视[js]",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/天空影视.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/天空影视.jsd"
         },
         {
             "key": "drpy_js_伊人追剧",
             "name": "影视 | 伊人追剧[js]",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/伊人追剧.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/伊人追剧.jsd"
         },
         {
             "key": "如意.js",
@@ -1304,14 +1460,14 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/如意[V2].jsd"
         },
         {
-            "key": "影视工场.js",
-            "name": "✨｜影视工场❤️[js]",
+            "key": "影视工场.jsd",
+            "name": "✨｜影视工场.jsd❤️",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影视工场.jsd"
         },
         {
             "key": "爱迪[V2].js",
@@ -3858,6 +4014,222 @@
             "url": "Web"
         },
         {
+            "name": "虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "腾讯视频",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "优酷视频",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜狐",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "1905",
+                    "xigua",
+                    "西 瓜 视 频",
+                    "西瓜视频",
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
+                ]
+            }
+        },
+        {
+            "name": "咸鱼",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "腾讯视频",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "优酷视频",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜狐",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "1905",
+                    "xigua",
+                    "西 瓜 视 频",
+                    "西瓜视频",
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
+                ]
+            }
+        },
+        {
+            "name": "-盘古-",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "腾讯视频",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "优酷视频",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜狐",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "1905",
+                    "xigua",
+                    "西 瓜 视 频",
+                    "西瓜视频",
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
+                ]
+            }
+        },
+        {
+            "name": "-777-",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "腾讯视频",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "优酷视频",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜狐",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "1905",
+                    "xigua",
+                    "西 瓜 视 频",
+                    "西瓜视频",
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
+                ]
+            }
+        },
+        {
             "name": "-夜幕-",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
@@ -3915,60 +4287,6 @@
             "name": "-云解析-",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
-                    "qiyi",
-                    "爱 奇 艺",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "优 酷",
-                    "优酷视频",
-                    "mgtv",
-                    "芒果",
-                    "芒果TV",
-                    "芒 果 T V",
-                    "letv",
-                    "乐视",
-                    "乐 视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "搜狐",
-                    "搜 狐",
-                    "搜狐视频",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "哔 哩",
-                    "哔 哩 哔 哩",
-                    "B站",
-                    "芒 果",
-                    "imgo",
-                    "iqiyi",
-                    "奇 艺",
-                    "m1905",
-                    "1905",
-                    "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
-                ]
-            }
-        },
-        {
-            "name": "-盘古-",
-            "type": 0,
-            "url": "https://www.pangujiexi.com/pangu/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -4236,171 +4554,9 @@
             }
         },
         {
-            "name": "-777-",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
-                    "qiyi",
-                    "爱 奇 艺",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "优 酷",
-                    "优酷视频",
-                    "mgtv",
-                    "芒果",
-                    "芒果TV",
-                    "芒 果 T V",
-                    "letv",
-                    "乐视",
-                    "乐 视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "搜狐",
-                    "搜 狐",
-                    "搜狐视频",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "哔 哩",
-                    "哔 哩 哔 哩",
-                    "B站",
-                    "芒 果",
-                    "imgo",
-                    "iqiyi",
-                    "奇 艺",
-                    "m1905",
-                    "1905",
-                    "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
-                ]
-            }
-        },
-        {
             "name": "@七七七@",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
-                    "qiyi",
-                    "爱 奇 艺",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "优 酷",
-                    "优酷视频",
-                    "mgtv",
-                    "芒果",
-                    "芒果TV",
-                    "芒 果 T V",
-                    "letv",
-                    "乐视",
-                    "乐 视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "搜狐",
-                    "搜 狐",
-                    "搜狐视频",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "哔 哩",
-                    "哔 哩 哔 哩",
-                    "B站",
-                    "芒 果",
-                    "imgo",
-                    "iqiyi",
-                    "奇 艺",
-                    "m1905",
-                    "1905",
-                    "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
-                ]
-            }
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
-                    "qiyi",
-                    "爱 奇 艺",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "优 酷",
-                    "优酷视频",
-                    "mgtv",
-                    "芒果",
-                    "芒果TV",
-                    "芒 果 T V",
-                    "letv",
-                    "乐视",
-                    "乐 视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "搜狐",
-                    "搜 狐",
-                    "搜狐视频",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "哔 哩",
-                    "哔 哩 哔 哩",
-                    "B站",
-                    "芒 果",
-                    "imgo",
-                    "iqiyi",
-                    "奇 艺",
-                    "m1905",
-                    "1905",
-                    "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
-                ]
-            }
-        },
-        {
-            "name": "咸鱼",
-            "type": 0,
-            "url": "https://jx.xyflv.cc/?url=",
             "ext": {
                 "flag": [
                     "qq",
