@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;0d07ed239415b867d580930ebb659199",
+    "spider": "./jar/fm.nogo.jar;md5;28017b537ee6c82b7927da060565c30c",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -666,22 +666,22 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看机器人.js"
+            "api": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看机器人.js"
         },
         {
             "key": "ikanbot2.js",
             "name": "🎁爱看机器人2[道长js]",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+            "api": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
         },
         {
             "key": "ikanbot3.js",
             "name": "爱看机器人3[道长js]",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+            "api": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
         },
         {
             "key": "csp_Ikanbot",
@@ -1350,13 +1350,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蘑菇.js"
-        },
-        {
-            "key": "drpy_js_新视觉影视网.js",
-            "name": "新视觉影视网.js",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视网"
         },
         {
             "key": "drpy_js_咕噜[V2].js",
