@@ -2477,6 +2477,7 @@
             "name": "imdb(采)",
             "type": 0,
             "api": "https://api.imdb123.com/api.php/provide/vod/from/imdb/at/xml/",
+            "playUrl": "https://www.cloudplayer.live/?url=",
             "categories": [
                 "国产动漫",
                 "中国动漫",
@@ -2961,9 +2962,9 @@
         {
             "key": "无尽釆集",
             "name": "无尽采集",
-            "type": "0",
-            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
-            "playUrl": "",
+            "type": "1",
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
+            "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
