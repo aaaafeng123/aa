@@ -1391,11 +1391,39 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js"
         },
         {
+            "key": "drpy_js_新视觉影视.js",
+            "name": "影视 | 新视觉影视[js]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视.js"
+        },
+        {
             "key": "drpy_js_布雷蓝光.jsd",
             "name": "影视 | 布雷蓝光.jsd",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/布雷蓝光.jsd"
+        },
+        {
+            "key": "drpy_js_布雷蓝光[V2].jsd",
+            "name": "影视 | 布雷蓝光[V2].jsd",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/布雷蓝光[V2].jsd"
+        },
+        {
+            "key": "drpy_js_Auete.js",
+            "name": "影视 | 奥特[js]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/Auete.js"
+        },
+        {
+            "key": "drpy_js_EMO蓝光[V2].js",
+            "name": "影视 | EMO蓝光[V2].js",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/EMO蓝光[V2].js"
         },
         {
             "key": "drpy_js_蓝光影院",
@@ -4786,15 +4814,6 @@
                 "uhibo.com",
                 ".*nivod.*",
                 ".*boku.*"
-            ]
-        },
-        {
-            "name": "農民",
-            "hosts": [
-                "toutiaovod.com"
-            ],
-            "regex": [
-                "video/tos/cn"
             ]
         },
         {
