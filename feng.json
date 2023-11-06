@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;28017b537ee6c82b7927da060565c30c",
+    "spider": "./jar/fm.nogo.jar;md5;4a3b7be1902ebed77d5155ec696fd0d5",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -666,22 +666,22 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看机器人.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看机器人.js"
         },
         {
             "key": "ikanbot2.js",
             "name": "🎁爱看机器人2[道长js]",
             "type": 3,
-            "api": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
         },
         {
             "key": "ikanbot3.js",
             "name": "爱看机器人3[道长js]",
             "type": 3,
-            "api": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://js.7fan.fun/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
         },
         {
             "key": "csp_Ikanbot",
@@ -742,7 +742,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+            "jar": "https://gh-proxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
         },
         {
             "key": "YingShi",
@@ -3972,7 +3972,7 @@
         {
             "name": "-巧技-",
             "type": 1,
-            "url": "https://www.qiaoji8.com/tvbox/json.php?url=",
+            "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -4348,6 +4348,60 @@
             }
         },
         {
+            "name": "-8090-",
+            "type": 0,
+            "url": "https://www.8090g.cn/jiexi/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "腾讯视频",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "优酷视频",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜狐",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "1905",
+                    "xigua",
+                    "西 瓜 视 频",
+                    "西瓜视频",
+                    "leshi",
+                    "douyin",
+                    "wasu",
+                    "tudou",
+                    "LS"
+                ]
+            }
+        },
+        {
             "name": "-云解析-",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
@@ -4510,9 +4564,9 @@
             }
         },
         {
-            "name": "全看",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
+            "name": "nnxv解析",
+            "type": 1,
+            "url": "https",
             "ext": {
                 "flag": [
                     "qq",
@@ -4564,9 +4618,9 @@
             }
         },
         {
-            "name": "-阳途-",
+            "name": "-m3u8.tv-",
             "type": 0,
-            "url": "https://jx.yangtu.top/?url=",
+            "url": "https://jx.m3u8.tv/jiexi/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -4618,9 +4672,9 @@
             }
         },
         {
-            "name": "@七七七@",
+            "name": "@冰豆@",
             "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url=",
+            "url": "https://bd.jx.cn/?url=",
             "ext": {
                 "flag": [
                     "qq",
