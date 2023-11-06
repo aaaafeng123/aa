@@ -71,7 +71,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "701d6c8f261a4af28dd0f4f7007a4878+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
+            "ext": "701d6c8f261a4af28dd0f4f7007a4878+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -276,8 +276,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./alitoken.txt"
+            "ext": "./alitoken.txt",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_Zhaozy",
@@ -288,8 +288,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./alitoken.txt"
+            "ext": "yingshi$$$abcd1234",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_AliPS",
@@ -300,8 +300,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./alitoken.txt"
+            "ext": "./alitoken.txt",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_Yisou",
@@ -312,8 +312,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./alitoken.txt"
+            "ext": "./alitoken.txt",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_Upyunso",
@@ -324,8 +324,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./alitoken.txt"
+            "ext": "./alitoken.txt",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源",
@@ -336,8 +336,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./js/云盘资源分享.json"
+            "ext": "./js/云盘资源.json",
+            "jar": "./jar/custom_spider香雅情.jar"
+        },
+        {
+            "key": "csp_XYQHikerAL_云盘资源分享",
+            "name": "📀云盘资源分享(搜索)",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/云盘资源分享.json",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_XYQHikerAL_我的小站",
@@ -348,8 +360,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./js/我的小站.json"
+            "ext": "./js/我的小站.json",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_XYQHikerAL_阿里云盘网",
@@ -360,32 +372,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./js/阿里云盘网.json"
-        },
-        {
-            "key": "csp_XYQHikerAL_豆豆飞",
-            "name": "📀豆豆飞(搜索)",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./js/豆豆飞.json"
-        },
-        {
-            "key": "csp_XYQHiker_土拨鼠搜索",
-            "name": "📀土拨鼠(搜索)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./js/土拨鼠搜索.json"
+            "ext": "./js/阿里云盘网.json",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_XYQHiker_DOVX搜索",
@@ -396,8 +384,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./js/DOVX搜索.json"
+            "ext": "./js/DOVX搜索.json",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_XYQHiker_盘搜索",
@@ -408,8 +396,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/custom_spider香雅情.jar",
-            "ext": "./js/盘搜索.json"
+            "ext": "./js/盘搜索.json",
+            "jar": "./jar/custom_spider香雅情.jar"
         },
         {
             "key": "csp_Alistxy",
