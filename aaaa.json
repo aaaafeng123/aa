@@ -18,7 +18,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "8b7790a9b1414396b72a2da0e8adcb5f+4k|auto|fhd",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+        },
+        {
+            "key": "Wogg",
+            "name": "玩偶哥哥|阿里",
+            "type": 3,
+            "api": "csp_Wogg",
+            "ext": "8b7790a9b1414396b72a2da0e8adcb5f$$$https://wogg.xyz/$$$1"
         },
         {
             "key": "drpy_js_荐片",
