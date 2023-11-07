@@ -10,6 +10,13 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
         {
+            "key": "Wogg",
+            "name": "PG|玩偶哥哥",
+            "type": 3,
+            "api": "csp_Wogg",
+            "ext": "./pg推送.json"
+        },
+        {
             "key": "玩偶",
             "name": "玩偶[蜂蜜]",
             "type": 3,
@@ -18,7 +25,7 @@
             "changeable": 0,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "3a18b0dd48694838ad80220d832e818c",
+                "token": "af19eb654cb84af2a9ac9d8dbba1b97e",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
@@ -110,6 +117,13 @@
             "api": "./js/kkys_open.js"
         },
         {
+            "key": "ikanbot3.js",
+            "name": "爱看机器人3[道长js]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+        },
+        {
             "key": "csp_Ikanbot",
             "name": "👾Ikanbot",
             "type": 3,
@@ -118,6 +132,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/custom_spider香雅情.jar"
+        },
+        {
+            "key": "77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "大师兄影视.js",
