@@ -17,19 +17,6 @@
             "ext": "./pg推送.json"
         },
         {
-            "key": "玩偶",
-            "name": "玩偶[蜂蜜]",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-            "ext": {
-                "token": "af19eb654cb84af2a9ac9d8dbba1b97e",
-                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-            }
-        },
-        {
             "key": "drpy_js_荐片",
             "name": "🎁荐片[js]",
             "type": 3,
