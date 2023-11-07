@@ -10,11 +10,17 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
         {
-            "key": "Wogg",
-            "name": "玩偶哥哥|阿里",
+            "key": "玩偶",
+            "name": "玩偶[蜂蜜]",
             "type": 3,
             "api": "csp_Wogg",
-            "ext": "3a18b0dd48694838ad80220d832e818c"
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+            "ext": {
+                "token": "3a18b0dd48694838ad80220d832e818c",
+                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+            }
         },
         {
             "key": "drpy_js_荐片",
