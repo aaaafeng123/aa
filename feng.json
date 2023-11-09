@@ -71,7 +71,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "af19eb654cb84af2a9ac9d8dbba1b97e+4k|auto|fhd",
+            "ext": "af19eb654cb84ae+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -204,7 +204,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6f9fef47ebe8ff9b3b",
+            "ext": "c01846b3b4844d6ff9b3b",
             "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -215,7 +215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6f9fef47ebe8ff9b3b+4k|auto|fhd$$$fanty$$$qqq111",
+            "ext": "c01846b3ef47ebe8ff9b3b+4k|auto|fhd$$$fanty$$$qqq111",
             "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -226,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6f9fef47ebe8ff9b3b"
+            "ext": "c01846b3bebe8ff9b3b"
         },
         {
             "key": "UpYun",
@@ -236,7 +236,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6f9fef47ebe8ff9b3b"
+            "ext": "c01846b3bebe8ff9b3b"
         },
         {
             "key": "PanSearch",
@@ -246,7 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6f9fef47ebe8ff9b3b"
+            "ext": "c01846b7ebe8ff9b3b"
         },
         {
             "key": "七夜",
@@ -256,7 +256,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6f9fef47ebe8ff9b3b"
+            "ext": "c01846b3b7ebe8ff9b3b"
         },
         {
             "key": "紙條搜",
@@ -265,7 +265,7 @@
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6f9fef47ebe8ff9b3b"
+            "ext": "c01846bf47ebe8ff9b3b"
         },
         {
             "key": "Gitcafe",
@@ -622,7 +622,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "api": "./js/lf_pushagent1_5_min.js",
-            "ext": "51c5b227c8984d668062f59e8f46678d"
+            "ext": "51c5b229e8f46678d"
         },
         {
             "key": "push_quark(先停用)",
@@ -644,7 +644,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 1,
-            "ext": "5e17be20ce8a4dc5860cfa8aa5dc84f4"
+            "ext": "5e17be20ce8aa5dc84f4"
         },
         {
             "key": "ikanbot",
