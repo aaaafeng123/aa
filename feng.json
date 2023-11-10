@@ -39,7 +39,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/token.txt"
         },
         {
             "key": "ali_cli",
@@ -71,7 +71,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "af19eb654cb84ae+4k|auto|fhd",
+            "ext": "5f5bdaaba2ea466c83ad3fc4bb25f811+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -83,7 +83,7 @@
             "changeable": 0,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "3a18b0dd48694838ad80220d832e818c",
+                "token": "5f5bdaaba2ea466c83ad3fc4bb25f811",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
