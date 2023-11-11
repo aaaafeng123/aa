@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.nogo.jar;md5;fdd6178096f961183a86d2d270616af3",
+    "spider": "./jar/fm.nogo.jar;md5;eb7812dda1f8ca37ee8b90eaa6a0d8ae",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -71,7 +71,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "5f5bdaaba2ea466c83ad3fc4bb25f811+4k|auto|fhd",
+            "ext": "f58bea917ce946c18479c25e453544b3+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -83,7 +83,7 @@
             "changeable": 0,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "5f5bdaaba2ea466c83ad3fc4bb25f811",
+                "token": "f58bea917ce946c18479c25e453544b3",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
