@@ -10,6 +10,26 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
         {
+            "key": "豆瓣",
+            "name": "豆瓣[蜂蜜版]",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
+        },
+        {
+            "key": "看球",
+            "name": "看球[蜂蜜版]",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "玩偶",
             "name": "玩偶[蜂蜜]",
             "type": 3,
@@ -30,6 +50,14 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+        },
+        {
+            "key": "櫻花",
+            "name": "櫻花",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "drpy_js_荐片",
