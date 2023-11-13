@@ -30,6 +30,17 @@
             }
         },
         {
+            "key": "csp_WoGG",
+            "name": "🎬玩偶┃自营",
+            "type": 3,
+            "api": "csp_WoGG",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt+4k|auto|fhd",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+        },
+        {
             "key": "玩偶",
             "name": "玩偶[蜂蜜]",
             "type": 3,
@@ -38,7 +49,7 @@
             "changeable": 0,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "3a18b0dd48694838ad80220d832e818c",
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },

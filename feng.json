@@ -71,7 +71,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "f58bea917ce946c18479c25e453544b3+4k|auto|fhd",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -83,7 +83,7 @@
             "changeable": 0,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "f58bea917ce946c18479c25e453544b3",
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
@@ -204,7 +204,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b4844d6ff9b3b",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt",
             "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -215,7 +215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3ef47ebe8ff9b3b+4k|auto|fhd$$$fanty$$$qqq111",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111",
             "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -226,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3bebe8ff9b3b"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt"
         },
         {
             "key": "UpYun",
@@ -236,7 +236,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3bebe8ff9b3b"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt"
         },
         {
             "key": "PanSearch",
@@ -246,7 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b7ebe8ff9b3b"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt"
         },
         {
             "key": "七夜",
@@ -256,7 +256,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "c01846b3b7ebe8ff9b3b"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt"
         },
         {
             "key": "紙條搜",
@@ -265,7 +265,7 @@
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 0,
-            "ext": "c01846bf47ebe8ff9b3b"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt"
         },
         {
             "key": "Gitcafe",
