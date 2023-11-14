@@ -1551,12 +1551,6 @@
             "jar": "./jar/pandaQ230823肥猫.jar"
         },
         {
-            "key": "kkys🐱",
-            "name": "❤️┃快看｜游走",
-            "type": 3,
-            "api": "./js/kkys_open.js"
-        },
-        {
             "key": "huya",
             "name": "🐯JustLive虎牙｜直播",
             "type": 3,
