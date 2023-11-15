@@ -30,6 +30,18 @@
             }
         },
         {
+            "key": "棋牌",
+            "name": " 💔吾爱棋牌",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "pwd": "50905d7b2216bfeccb5b41016357176b",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/18775/吾爱棋牌0806.m3u?sign=O6sXUxVC6QET_CvmtKwy18VlNi9GTyHWVNo91buKMbc=:0",
+            "jar": "http://52bsj.vip:81/api/v3/file/get/170325/0928.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E=:0;md5;02c40490ea14c433b66fcc0ce2f2ed94"
+        },
+        {
             "key": "csp_WoGG",
             "name": "🎬玩偶┃自营",
             "type": 3,
@@ -78,6 +90,16 @@
             "name": "🎉一起┃App",
             "type": 3,
             "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+        },
+        {
+            "key": "77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -200,16 +222,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/custom_spider香雅情.jar"
-        },
-        {
-            "key": "77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "大师兄影视.js",
@@ -3059,9 +3071,9 @@
             }
         },
         {
-            "name": "-米太硬-",
-            "type": 1,
-            "url": "http://luoye.shop/jiexi/米太硬.php?url=",
+            "name": "-爱豆-",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url=",
             "ext": {
                 "flag": [
                     "qq",
