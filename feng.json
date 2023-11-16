@@ -1,7 +1,16 @@
 {
-    "spider": "./jar/fm.jar;md5;23461d9553474037f5ca776274003c90",
+    "spider": "./jar/fm.jar;md5;577e6f45363dd5e544dc2fb40f375750",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
+        {
+            "key": "應用商店",
+            "name": "應用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+        },
         {
             "key": "豆豆",
             "name": "豆瓣┃主页",
@@ -688,6 +697,7 @@
             "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "timeout": 120
         },
         {
@@ -697,6 +707,7 @@
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1,
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "timeout": 120
         },
         {
