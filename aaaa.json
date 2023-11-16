@@ -321,6 +321,54 @@
             "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
+            "key": "iqiyi采",
+            "name": "爱奇艺(采)",
+            "type": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "qq采",
+            "name": "腾讯视频(采)",
+            "type": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "360kan采",
+            "name": "360影视(采)",
+            "type": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "api": "http://tvbox-1-g5221611.deta.app/vod/360kan",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "sohu采",
+            "name": "搜狐(采)",
+            "type": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "雨哥影视",
             "name": "🍟雨哥影视(聚)",
             "type": 1,
