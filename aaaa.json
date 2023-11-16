@@ -233,6 +233,68 @@
             "jar": "./jar/custom_spider香雅情.jar"
         },
         {
+            "key": "csp_SP2345",
+            "name": "🐕┃SP┃2345影视",
+            "type": 3,
+            "api": "csp_SP2345",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_qq",
+            "name": "🐧┃SP┃腾讯视频",
+            "type": 3,
+            "api": "csp_qq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_iqiyi",
+            "name": "🥝┃SP┃奇艺影视",
+            "type": 3,
+            "api": "csp_iqiyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_mgtv",
+            "name": "🍋┃SP┃芒果电影",
+            "type": 3,
+            "api": "csp_mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp-youku",
+            "name": "👔┃SP┃优酷电影",
+            "type": 3,
+            "api": "csp_youku",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_SP360",
+            "name": "🌐┃SP┃360影视",
+            "type": 3,
+            "api": "csp_SP360",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
             "key": "大师兄影视.js",
             "name": "✨｜大师兄影视❤️[js]",
             "type": 3,
@@ -3076,7 +3138,7 @@
         {
             "name": "-比u比u🥭-",
             "type": 1,
-            "url": "https://jxjson.cf/json.php?url=",
+            "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
             "ext": {
                 "flag": [
                     "qq",
