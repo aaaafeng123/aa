@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.jar;md5;c7490687d67967fcf1afa46140aec05d",
+    "spider": "./jar/pg.jar;md5;77ec1c27b1dde44557426537f07c2cf5",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -457,7 +457,7 @@
             "name": "阿里|玩偶表哥",
             "type": 3,
             "api": "csp_Wobg",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
         },
         {
             "key": "Mayiys",
@@ -497,28 +497,28 @@
             "api": "csp_NanGua",
             "searchable": 1,
             "changeable": 1,
-            "ext": "null$$$1"
+            "ext": "$$$null$$$1"
         },
         {
             "key": "Hdhive",
             "name": "pg|影巢🥕",
             "type": 3,
             "api": "csp_Hdhive",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
         },
         {
             "key": "Hdhive｜cps",
             "name": "阿里|影巢cps",
             "type": 3,
             "api": "csp_Hdhive",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
         },
         {
             "key": "4KHDR｜cps",
             "name": "4KHDR|网盘cps",
             "type": 3,
             "api": "csp_FourKHDR",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$./lib/4khdr.txt$$$1",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json$$$./lib/4khdr.txt$$$1",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -528,7 +528,7 @@
             "name": "校长影视|网盘cps",
             "type": 3,
             "api": "csp_XiaoZhang",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -538,7 +538,7 @@
             "name": "团长资源|网盘csp",
             "type": 3,
             "api": "csp_TZFile",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$null$$$1",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json$$$null$$$1",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -565,7 +565,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
             "key": "新6V",
@@ -575,7 +575,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
         },
         {
             "key": "aipanso.js",
