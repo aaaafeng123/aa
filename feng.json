@@ -457,7 +457,7 @@
             "name": "阿里|玩偶表哥",
             "type": 3,
             "api": "csp_Wobg",
-            "ext": "./pg推送.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
         },
         {
             "key": "Mayiys",
@@ -504,21 +504,21 @@
             "name": "pg|影巢🥕",
             "type": 3,
             "api": "csp_Hdhive",
-            "ext": "./pg推送.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
         },
         {
             "key": "Hdhive｜cps",
             "name": "阿里|影巢cps",
             "type": 3,
             "api": "csp_Hdhive",
-            "ext": "./pg推送.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
         },
         {
             "key": "4KHDR｜cps",
             "name": "4KHDR|网盘cps",
             "type": 3,
             "api": "csp_FourKHDR",
-            "ext": "./pg推送.json$$$./lib/4khdr.txt$$$1",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$./lib/4khdr.txt$$$1",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -528,7 +528,7 @@
             "name": "校长影视|网盘cps",
             "type": 3,
             "api": "csp_XiaoZhang",
-            "ext": "./pg推送.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -538,7 +538,7 @@
             "name": "团长资源|网盘csp",
             "type": 3,
             "api": "csp_TZFile",
-            "ext": "./pg推送.json$$$null$$$1",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$null$$$1",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -565,7 +565,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./pg推送.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
             "key": "新6V",
@@ -575,7 +575,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./pg推送.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"
         },
         {
             "key": "aipanso.js",
