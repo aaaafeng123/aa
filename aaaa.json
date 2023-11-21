@@ -99,6 +99,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
+            "timeout": 60,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
