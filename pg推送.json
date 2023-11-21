@@ -1,7 +1,6 @@
 {
     "token": "https://gh-proxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt",
     "open_token": "",
-    "is_ali_vip": true,
     "thread_limit": 32,
     "vod_flags": "4k|4kz|auto",
     "quark_flags": "4k|4kz|auto",
