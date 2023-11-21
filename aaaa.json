@@ -39,6 +39,21 @@
             }
         },
         {
+            "key": "csp_XPath_企鹅体育",
+            "name": "🐧企鹅┃体育",
+            "type": 3,
+            "api": "csp_XPath",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json",
+            "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+        },
+        {
             "key": "棋牌",
             "name": " 💔吾爱棋牌",
             "type": 3,
@@ -63,7 +78,7 @@
         },
         {
             "key": "玩偶",
-            "name": "玩偶[蜂蜜]",
+            "name": "玩偶[蜂蜜版]",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -156,66 +171,6 @@
             "ext": "https://www.bdys03.com/$$$null$$$1"
         },
         {
-            "key": "优酷.js",
-            "name": "优酷视频",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
-        },
-        {
-            "key": "腾云驾雾.js",
-            "name": "腾讯视频",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
-        },
-        {
-            "key": "奇珍异兽.js",
-            "name": "爱奇艺",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
-        },
-        {
-            "key": "百忙无果.js",
-            "name": "芒果TV",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
-        },
-        {
-            "key": "360影视.js",
-            "name": "360影视",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-        },
-        {
-            "key": "菜狗.js",
-            "name": "搜狗",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
-        },
-        {
             "key": "ikanbot3.js",
             "name": "爱看机器人3[道长js]",
             "type": 3,
@@ -231,68 +186,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/custom_spider香雅情.jar"
-        },
-        {
-            "key": "csp_SP2345",
-            "name": "🐕┃SP┃2345影视",
-            "type": 3,
-            "api": "csp_SP2345",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/qq.youku.iqiyi.jar"
-        },
-        {
-            "key": "csp_qq",
-            "name": "🐧┃SP┃腾讯视频",
-            "type": 3,
-            "api": "csp_qq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/qq.youku.iqiyi.jar"
-        },
-        {
-            "key": "csp_iqiyi",
-            "name": "🥝┃SP┃奇艺影视",
-            "type": 3,
-            "api": "csp_iqiyi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/qq.youku.iqiyi.jar"
-        },
-        {
-            "key": "csp_mgtv",
-            "name": "🍋┃SP┃芒果电影",
-            "type": 3,
-            "api": "csp_mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/qq.youku.iqiyi.jar"
-        },
-        {
-            "key": "csp-youku",
-            "name": "👔┃SP┃优酷电影",
-            "type": 3,
-            "api": "csp_youku",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/qq.youku.iqiyi.jar"
-        },
-        {
-            "key": "csp_SP360",
-            "name": "🌐┃SP┃360影视",
-            "type": 3,
-            "api": "csp_SP360",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/qq.youku.iqiyi.jar"
         },
         {
             "key": "大师兄影视.js",
@@ -366,21 +259,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
-        },
-        {
-            "key": "csp_XPath_企鹅体育",
-            "name": "🐧企鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json",
-            "jar": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "雨哥影视",
@@ -3075,6 +2953,128 @@
                 "网球",
                 "斯诺克"
             ]
+        },
+        {
+            "key": "优酷.js",
+            "name": "优酷视频",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+        },
+        {
+            "key": "腾云驾雾.js",
+            "name": "腾讯视频",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+        },
+        {
+            "key": "奇珍异兽.js",
+            "name": "爱奇艺",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+        },
+        {
+            "key": "百忙无果.js",
+            "name": "芒果TV",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+        },
+        {
+            "key": "360影视.js",
+            "name": "360影视",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+        },
+        {
+            "key": "菜狗.js",
+            "name": "搜狗",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
+        },
+        {
+            "key": "csp_SP2345",
+            "name": "🐕┃SP┃2345影视",
+            "type": 3,
+            "api": "csp_SP2345",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_qq",
+            "name": "🐧┃SP┃腾讯视频",
+            "type": 3,
+            "api": "csp_qq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_iqiyi",
+            "name": "🥝┃SP┃奇艺影视",
+            "type": 3,
+            "api": "csp_iqiyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_mgtv",
+            "name": "🍋┃SP┃芒果电影",
+            "type": 3,
+            "api": "csp_mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp-youku",
+            "name": "👔┃SP┃优酷电影",
+            "type": 3,
+            "api": "csp_youku",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
+        },
+        {
+            "key": "csp_SP360",
+            "name": "🌐┃SP┃360影视",
+            "type": 3,
+            "api": "csp_SP360",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/qq.youku.iqiyi.jar"
         }
     ],
     "lives": [
