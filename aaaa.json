@@ -76,7 +76,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt+4k|auto|fhd",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -88,7 +88,7 @@
             "changeable": 0,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/alitoken.txt",
+                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt",
                 "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
@@ -3096,7 +3096,7 @@
         {
             "name": "🎈IPV6",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
