@@ -9,8 +9,8 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://fm.t4tv.hz.cz/json/market.json",
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "drpy_js_豆瓣",
@@ -26,8 +26,8 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://fm.t4tv.hz.cz/json/douban.json",
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "看球",
@@ -36,7 +36,7 @@
             "api": "csp_Kanqiu",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "style": {
                 "type": "list"
             }
@@ -86,10 +86,10 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
                 "token": "https://ghproxy.net/https://raw.githubusercontent.com/dk393722/tv/main/token.txt",
-                "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
+                "filter": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
         {
@@ -100,8 +100,8 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "https://fm.t4tv.hz.cz/json/jianpian.json",
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "drpy_js_荐片",
