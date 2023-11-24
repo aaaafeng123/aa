@@ -9,15 +9,15 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json",
+            "jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣 | 热播[js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
         {
             "key": "豆瓣",
@@ -26,8 +26,8 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
+            "jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "看球",
@@ -36,7 +36,7 @@
             "api": "csp_Kanqiu",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+            "jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "style": {
                 "type": "list"
             }
@@ -76,7 +76,7 @@
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -86,10 +86,10 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+            "jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "https://ghproxy.net/https://raw.githubusercontent.com/dk393722/tv/main/token.txt",
-                "filter": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+                "token": "https://ghps.cc/https://raw.githubusercontent.com/dk393722/tv/main/token.txt",
+                "filter": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
         {
@@ -100,8 +100,8 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
+            "jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "drpy_js_荐片",
@@ -111,8 +111,8 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
         },
         {
             "key": "一起看 ",
@@ -179,8 +179,8 @@
             "key": "ikanbot3.js",
             "name": "爱看机器人3[道长js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
         },
         {
             "key": "csp_Ikanbot",
@@ -199,8 +199,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六度TV.jsd"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六度TV.jsd"
         },
         {
             "key": "北极狐[V2].js",
@@ -209,8 +209,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/北极狐[V2].js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/北极狐[V2].js"
         },
         {
             "key": "哔哩影视.js",
@@ -219,8 +219,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
         },
         {
             "key": "小白菜电影.jsd",
@@ -229,8 +229,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.jsd"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.jsd"
         },
         {
             "key": "尘落影视.jsd",
@@ -239,8 +239,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/尘落影视.jsd"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/尘落影视.jsd"
         },
         {
             "key": "干饭影视.js",
@@ -249,8 +249,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/干饭影视.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/干饭影视.js"
         },
         {
             "key": "影探[V2].js",
@@ -259,8 +259,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影探[V2].js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影探[V2].js"
         },
         {
             "key": "影视之家.jsd",
@@ -269,8 +269,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影视之家.jsd"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影视之家.jsd"
         },
         {
             "key": "影视工场.jsd",
@@ -279,8 +279,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影视工场.jsd"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影视工场.jsd"
         },
         {
             "key": "新片场.js",
@@ -289,8 +289,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新片场.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新片场.js"
         },
         {
             "key": "爱迪[V2].js",
@@ -299,8 +299,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱迪[V2].js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱迪[V2].js"
         },
         {
             "key": "落攻阁影视.js",
@@ -309,8 +309,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/落攻阁影视.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/落攻阁影视.js"
         },
         {
             "key": "鸭鸭[V2].jsd",
@@ -319,8 +319,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/鸭鸭[V2].jsd"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/鸭鸭[V2].jsd"
         },
         {
             "key": "农民影视.js",
@@ -329,71 +329,71 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
         },
         {
             "key": "drpy_js_Auete.js",
             "name": "影视 | 奥特[js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/Auete.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/Auete.js"
         },
         {
             "key": "drpy_js_咕噜[V2].js",
             "name": "咕噜[V2].js",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜[V2].jsd"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜[V2].jsd"
         },
         {
             "key": "drpy_js_达达龟.js",
             "name": "达达龟.js",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/达达龟.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/达达龟.js"
         },
         {
             "key": "drpy_js_南瓜影视.js",
             "name": "南瓜影视.js",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/南瓜影视.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/南瓜影视.js"
         },
         {
             "key": "drpy_js_555电影[V2]",
             "name": "影视 | 555电影[V2][js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js"
         },
         {
             "key": "drpy_js_新视觉影视.js",
             "name": "影视 | 新视觉影视[js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视.js"
         },
         {
             "key": "drpy_js_EMO蓝光[V2].js",
             "name": "影视 | EMO蓝光[V2].js",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/EMO蓝光[V2].js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/EMO蓝光[V2].js"
         },
         {
             "key": "drpy_js_胖虎影视",
             "name": "影视 | 胖虎影视[js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"
         },
         {
             "key": "drpy_js_兔小贝",
             "name": "动漫 | 兔小贝[js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
         },
         {
             "key": "雨哥影视",
@@ -3028,8 +3028,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
         },
         {
             "key": "腾云驾雾.js",
@@ -3038,8 +3038,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
         },
         {
             "key": "奇珍异兽.js",
@@ -3048,8 +3048,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
         },
         {
             "key": "百忙无果.js",
@@ -3058,8 +3058,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
         },
         {
             "key": "360影视.js",
@@ -3068,8 +3068,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
         },
         {
             "key": "菜狗.js",
@@ -3078,8 +3078,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
+            "api": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghps.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
         },
         {
             "key": "csp_SP2345",
@@ -3148,7 +3148,7 @@
         {
             "name": "🎈IPV6",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
