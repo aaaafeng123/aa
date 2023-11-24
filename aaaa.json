@@ -93,17 +93,6 @@
             }
         },
         {
-            "key": "賤賤",
-            "name": "荐片[蜂蜜版]",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json",
-            "jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        },
-        {
             "key": "drpy_js_荐片",
             "name": "🎁荐片[js]",
             "type": 3,
