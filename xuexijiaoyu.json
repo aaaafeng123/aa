@@ -109,8 +109,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
@@ -120,8 +120,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝2.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝2.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
         },
         {
             "key": "py_baby",
@@ -131,7 +131,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/baby.py",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/baby.py",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -142,7 +142,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/py_cctv.py",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/py_cctv.py",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
@@ -153,43 +153,43 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/央视经典.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/央视经典.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
         },
         {
             "key": "腾讯",
             "name": "♻| 少儿频道1",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/腾讯.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/腾讯.js"
         },
         {
             "key": "芒果",
             "name": "♻ | 少儿频道2",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/忙果.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/忙果.js"
         },
         {
             "key": "奇艺",
             "name": "♻| 少儿频道3",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/异兽.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/异兽.js"
         },
         {
             "key": "优酷",
             "name": "♻| 少儿频道4",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/优酷.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/优酷.js"
         },
         {
             "key": "童趣",
             "name": "♻ 童趣",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/童趣.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/童趣.js"
         },
         {
             "key": "csp_XYQHiker_播视童趣",
@@ -199,8 +199,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/播视童趣.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/播视童趣.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
         },
         {
             "key": "幼儿启蒙",
@@ -210,7 +210,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/幼儿启蒙.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/幼儿启蒙.json"
         },
         {
             "key": "益智",
@@ -220,7 +220,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/益智动画.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/益智动画.json"
         },
         {
             "key": "幼小衔接",
@@ -230,7 +230,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/幼小衔接.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/幼小衔接.json"
         },
         {
             "key": "小灯塔",
@@ -240,7 +240,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔百科.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔百科.json"
         },
         {
             "key": "小灯塔科学",
@@ -250,7 +250,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔科学.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔科学.json"
         },
         {
             "key": "小灯塔地理",
@@ -260,7 +260,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔地理.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔地理.json"
         },
         {
             "key": "小灯塔国学",
@@ -270,7 +270,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔国学.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔国学.json"
         },
         {
             "key": "小灯塔人文",
@@ -280,7 +280,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔人文.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/小灯塔人文.json"
         },
         {
             "key": "儿童拼音",
@@ -290,7 +290,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童拼音.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童拼音.json"
         },
         {
             "key": "儿童识字",
@@ -300,7 +300,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童识字.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童识字.json"
         },
         {
             "key": "儿童英语",
@@ -310,7 +310,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童英语.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童英语.json"
         },
         {
             "key": "儿童硬笔",
@@ -320,7 +320,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童硬笔.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童硬笔.json"
         },
         {
             "key": "儿童思维",
@@ -330,7 +330,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童思维.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童思维.json"
         },
         {
             "key": "儿童口才",
@@ -340,7 +340,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童口才.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童口才.json"
         },
         {
             "key": "儿童编程",
@@ -350,7 +350,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童编程.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童编程.json"
         },
         {
             "key": "儿童武术",
@@ -360,7 +360,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童武术.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/儿童武术.json"
         },
         {
             "key": "兴趣培养",
@@ -370,7 +370,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兴趣培养.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兴趣培养.json"
         },
         {
             "key": "小学",
@@ -380,7 +380,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/哔哩哔哩小学.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/哔哩哔哩小学.json"
         },
         {
             "key": "初中",
@@ -390,7 +390,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/哔哩哔哩初中.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/哔哩哔哩初中.json"
         },
         {
             "key": "高中",
@@ -400,7 +400,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/哔哩哔哩高中.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/哔哩哔哩高中.json"
         },
         {
             "key": "py_youer",
@@ -410,7 +410,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/幼儿.py"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/幼儿.py"
         },
         {
             "key": "py_xiaoxue",
@@ -420,7 +420,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/小学.py"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/小学.py"
         },
         {
             "key": "py_czxx",
@@ -430,14 +430,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/初中.py"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/初中.py"
         },
         {
             "key": "dr_兔小贝.fty",
             "name": "♻儿童┃启蒙",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/兔小贝.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -458,7 +458,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/少儿教育.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/少儿教育.json"
         },
         {
             "key": "小学课堂.fty",
@@ -472,7 +472,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/小学课堂.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/小学课堂.json"
         },
         {
             "key": "初中课堂.fty",
@@ -486,7 +486,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/初中课堂.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/初中课堂.json"
         },
         {
             "key": "高中教育.fty",
@@ -500,7 +500,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/高中课堂.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/lib/高中课堂.json"
         }
     ],
     "parses": [
