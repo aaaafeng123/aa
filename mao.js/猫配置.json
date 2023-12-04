@@ -1,0 +1,291 @@
+{
+    "sites": [
+        {
+            "key": "wogg_open",
+            "name": "🐱玩偶哥哥",
+            "type": 3,
+            "api": "./wogg.js",
+            "ext": "71b03ee2a5604db189f1ea8e4db6ee91"
+        },
+        {
+            "key": "趣盘搜",
+            "name": "趣盘搜┃夸克🐱",
+            "type": 3,
+            "api": "./funletu.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "b-user-id=50f210e5-ad0f-7161-ffce-96192041a7c2; _UP_A4A_11_=wb9031d1d277431abf6c41ed835b636d; ctoken=g4j7cF4jI6LuoFGSrL8AOkoi; grey-id=765d1437-f8be-3487-0b9e-46338d9826d0; grey-id.sig=rYHWrHuNtdm3fkgAPd4zh2wwS6dc9Z90FllC0kaCfuo; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; _UP_F7E_8D_=i74i77uRTzs%2F%2BAvZzZIIkMgyMWvyFTllNzJpSw51d7tqqdwMLMklHxH7it6j1XIINnBte7EcZtYc8umX3Lj2gnAl%2BT0uI3e2pJuw4fApHUNvQtRjZMJ%2Bg89lnhrn%2BCkzn9yTmN52ylz2ygc6wv%2FIKg5Eh65wTlP%2Br1ItZcJOhyWzkQhnoHIwa1fugveiX1ySLarji7JTLYSX%2F9JGGG%2BOk%2BHZ47Hvtvq2wLtchZ7GH2KZHru1xRmXkm2Be%2FsEyWJ4Xzm246IBVjgv4ufl71HKjYUfFodtjC0p0KLzTe%2BjQg7dldBvB7trVMH3IhYSoUw2AYTF7eNiF%2BU9DgASvb4Vfvosp%2BEFl7vny0TNscSZMOl8DcfixlwkYTpwSCY4564fHGA9cyxKste3pBRULSTR8JY7n3P6zUYaG%2BofGCzsMul3NGY6wl6lBISYJ2cSDS100Hjqhb3FcWuLwSSSdvGDxA%3D%3D; _UP_D_=pc; __wpkreporterwid_=d922190d-1fcf-40c9-b2a8-1f923a87fd38; _UP_30C_6A_=st9076201dax1818o2wsuo4up5z1vq1m; _UP_TS_=sg18e5daf8141ec404205d3b3db9cdeffc5; _UP_E37_B7_=sg18e5daf8141ec404205d3b3db9cdeffc5; _UP_TG_=st9076201dax1818o2wsuo4up5z1vq1m; _UP_335_2B_=1; __pus=e22d47c38552ea151583edef1cd4f0c4AASXA53fz9W7a98VQYph4lOBmwD2UcOc7D55wovE6+8+HMF18mg4pf9AZiG9FeUiOepypCo9pyqoVgycNiFVUtW/; __kp=e9f935e0-8685-11ee-9207-3f4cd6df576b; __kps=AAQswhPmy5Yodpc7B2RtTzbe; __ktd=sVrGj3g+w80qC/HnmFWohQ==; __uid=AAQswhPmy5Yodpc7B2RtTzbe; __itrace_wid=a257f1ae-5314-4480-22b4-93082aebdad9; __puus=5bb4b81905fb6c48ef08b3d79d58a1f9AAQElxg/wlo4DKEH/FMpGQNQzwa25mgCJLmKFFsRcX1F4HacKQW5f8wQfAxzd8Qzl5h9UMD4vXu2lxlESvaK5wvd+HIVph4fKY7Z4JXqkHOHHg9RibH5qCp7OyjLQseriU04Fx8JM6Gk0nd3ZL049SEtrlsVJqli7jad3osJqiZ5NVq4B2tW5DB0w0jwaWkPwUMyFhh3Jn9pvSRP/ut6ZcfG"
+        },
+        {
+            "key": "pansou",
+            "name": "盘搜｜阿里",
+            "type": 3,
+            "api": "./pansou_open.js",
+            "ext": "71b03ee2a5604db189f1ea8e4db6ee91"
+        },
+        {
+            "key": "dovx",
+            "name": "🌃七夜｜阿里｜🔹",
+            "type": 3,
+            "api": "./dovx_open.js",
+            "ext": "71b03ee2a5604db189f1ea8e4db6ee91"
+        },
+        {
+            "key": "pansearch",
+            "name": "🔍PanSearch｜阿里｜🔹",
+            "type": 3,
+            "api": "./pansearch_open.js",
+            "ext": "71b03ee2a5604db189f1ea8e4db6ee91"
+        },
+        {
+            "key": "xiaozhitiao",
+            "name": "小纸条",
+            "type": 3,
+            "api": "./xiaozhitiao_open.js",
+            "ext": "71b03ee2a5604db189f1ea8e4db6ee91"
+        },
+        {
+            "key": "rejumao",
+            "name": "热剧猫",
+            "type": 3,
+            "api": "./apptov5_open.js",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+            "ext": {
+                "domains": [
+                    "https://app-1253196701.cos.ap-shanghai.myqcloud.com/app.txt",
+                    "https://www.daenwl.com/app.txt"
+                ],
+                "aesKey": "8y8sDX3ZG22yACH3ZM5KfNGieTxEMKFe",
+                "aesIV": "WxRAbh68C8pP6SpN",
+                "rasPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Ykikz4aIqkJC899VxwX\nwx27bZJGV/fDbgAHtXxZ73Mq8QWuPfeAanWDWiGPhJu5aVQndADi7B0L5RBIrirf\n6lIzA+l8Ubt6+nvPYQ9NSlRkObE4ML2Hw7ccAmcqzDD0vplJz7Y8o7qKIoyfK5NP\nXDuiv52HgbyEP6KlWCiDfMuIsAA+/3x9C/0RDRgjf3x+24EuGOD6Gnw+rVJCOb64\nW4KZ7vH/uhaQSLLnNYF9VD00c072tOeaBt2mElexJN66gcP65kmrkI5grFz2RcEg\nIEkwUcYBNiFeHUcFyQZuDj/DLqQidwMhFJfkcUuMtByR9cYl9BpqT/3NKVQ1EPrV\n7QIDAQAB\n-----END PUBLIC KEY-----",
+                "ic": "fwEUWytkwJqHICtu/kNrXOVGQAzWUw1mGuQYdT1heOKZ6vEEI+4jf6LAHJ/f4h39ZR2WL4fccGchSoCm+pqkBRi8asSMqZzKGGfY8ejzrYHxDjiTOhs4B6p/iC8Nrj+bcCmXAjVNksfxlcjU6JlbRQ=="
+            }
+        },
+        {
+            "key": "77n.js",
+            "name": "77",
+            "type": 3,
+            "api": "./kunyu77_open.js"
+        },
+        {
+            "key": "dsxys_open.js",
+            "name": "大师兄",
+            "type": 3,
+            "api": "./dsxys_open.js"
+        },
+        {
+            "key": "yrzj_open.js",
+            "name": "伊人追剧",
+            "type": 3,
+            "api": "./yrzj_open.js"
+        },
+        {
+            "key": "sssp_open.js",
+            "name": "速搜视频",
+            "type": 3,
+            "api": "./sssp_open.js"
+        },
+        {
+            "key": "555dy_open.js",
+            "name": "555电影",
+            "type": 3,
+            "api": "./555dy_open.js"
+        },
+        {
+            "key": "555dy_open2.js",
+            "name": "❤️555电影|游走",
+            "type": 3,
+            "api": "./555dy_open2.js"
+        },
+        {
+            "key": "douyu_open.js",
+            "name": "🐱斗鱼",
+            "type": 3,
+            "api": "./douyu_open.js"
+        },
+        {
+            "key": "huya",
+            "name": "🐯JustLive虎牙｜直播",
+            "type": 3,
+            "api": "./huya_open.js",
+            "ext": {
+                "categories": "科技#旅游#娱乐天地#一起看#颜值#二次元#星秀#音乐#原创#网游竞技#单机热游#综合手游"
+            }
+        },
+        {
+            "key": "open_js_琨魚",
+            "name": "琨魚",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kunyu77_open.js",
+            "searchable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "ikanbot_open",
+            "name": "🐱ikanbot",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./ikanbot_open.js"
+        },
+        {
+            "key": "kkys_open",
+            "name": "🐱快看",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./kkys_open.js"
+        },
+        {
+            "key": "酷奇MV_open",
+            "name": "🐱酷奇MV",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./kuqimv_open.js"
+        },
+        {
+            "key": "视聚场_open",
+            "name": "🐱视聚场",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./cntv_open.js"
+        },
+        {
+            "key": "世纪DJ音乐网_open",
+            "name": "🐱世纪DJ音乐网",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./dj0898_open.js"
+        },
+        {
+            "key": "兔小贝_open",
+            "name": "🐱兔小贝",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./tuxiaobei_open.js"
+        },
+        {
+            "key": "贝乐虎_open",
+            "name": "🐱贝乐虎",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./ubestkid_open.js"
+        },
+        {
+            "key": "童趣_open",
+            "name": "🐱童趣",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./boosj_open.js"
+        },
+        {
+            "key": "在线之家_open",
+            "name": "🐱在线之家",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./zxzj_open.js"
+        },
+        {
+            "key": "Libvio_open",
+            "name": "🐱Libvio",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./libvio_open.js"
+        },
+        {
+            "key": "短视频_open",
+            "name": "🐱短视频",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./sharenice_open.js"
+        },
+        {
+            "key": "独播库_open",
+            "name": "🐱独播库",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./duboku_open.js"
+        },
+        {
+            "key": "南瓜影视_open",
+            "name": "🐱南瓜影视",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./ng_open.js"
+        },
+        {
+            "key": "爱上你听书网_open",
+            "name": "🐱爱上你听书网",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./230ts_open"
+        },
+        {
+            "key": "素白白_open",
+            "name": "🐱素白白",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./subaibai_open.js"
+        },
+        {
+            "key": "我的哔哩_open",
+            "name": "🐱我的哔哩",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "api": "./mybili_open.js"
+        }
+    ]
+}
