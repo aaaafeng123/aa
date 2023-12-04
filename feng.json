@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;8cea7f73971076b0af849d9856ee65a2",
+    "spider": "./jar/pg.jar;md5;a0bf041c376b1ef9521a8034c932dc9f",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -116,13 +116,6 @@
             "changeable": 1,
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-        },
-        {
-            "key": "WoGG",
-            "name": "阿里 | 玩偶哥哥",
-            "type": 3,
-            "api": "csp_Wogg(PG的玩偶哥哥)",
-            "ext": "./lib/token.txt$$$https://tvfan.xxooo.cf/"
         },
         {
             "key": "If_js_live",
@@ -287,7 +280,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./alitoken.txt",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_Zhaozy",
@@ -299,7 +292,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "yingshi$$$abcd1234",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_AliPS",
@@ -311,7 +304,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./alitoken.txt",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_Yisou",
@@ -323,7 +316,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./alitoken.txt",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_Upyunso",
@@ -335,7 +328,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./alitoken.txt",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源",
@@ -347,7 +340,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/云盘资源.json",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源分享",
@@ -359,7 +352,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/云盘资源分享.json",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_XYQHikerAL_我的小站",
@@ -371,7 +364,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/我的小站.json",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_XYQHikerAL_阿里云盘网",
@@ -383,7 +376,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/阿里云盘网.json",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_XYQHiker_DOVX搜索",
@@ -395,7 +388,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/DOVX搜索.json",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_XYQHiker_盘搜索",
@@ -407,7 +400,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/盘搜索.json",
-            "jar": "./jar/custom_spider香雅情.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/xyq/main/custom_spider.jar"
         },
         {
             "key": "csp_Alistxy",
@@ -451,14 +444,14 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./pg推送.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json"
         },
         {
             "key": "Wobg",
             "name": "阿里|玩偶表哥",
             "type": 3,
             "api": "csp_Wobg",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json"
         },
         {
             "key": "Mayiys",
@@ -505,21 +498,14 @@
             "name": "pg|影巢🥕",
             "type": 3,
             "api": "csp_Hdhive",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
-        },
-        {
-            "key": "Hdhive｜cps",
-            "name": "阿里|影巢cps",
-            "type": 3,
-            "api": "csp_Hdhive",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json"
         },
         {
             "key": "4KHDR｜cps",
             "name": "4KHDR|网盘cps",
             "type": 3,
             "api": "csp_FourKHDR",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json$$$./lib/4khdr.txt$$$1",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json$$$./lib/4khdr.txt$$$1",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -529,7 +515,7 @@
             "name": "校长影视|网盘cps",
             "type": 3,
             "api": "csp_XiaoZhang",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -539,7 +525,7 @@
             "name": "团长资源|网盘csp",
             "type": 3,
             "api": "csp_TZFile",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json$$$null$$$1",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json$$$null$$$1",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -566,7 +552,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
             "key": "新6V",
@@ -576,14 +562,14 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/js/token.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokentemplate.json"
         },
         {
             "key": "aipanso.js",
             "name": "pg| 爱盘搜| 夸",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./(PG)js/aipanso.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/aipanso.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -592,7 +578,7 @@
             "name": "pg| 趣盘搜| 夸",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./(PG)js/funletu.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/funletu.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -601,7 +587,7 @@
             "name": "pg| 人人影视| [搜] ",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./(PG)js/yyets.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/yyets.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -610,7 +596,7 @@
             "name": "pg| 奇妙搜|[夸] ",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./(PG)js/qimiao.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/qimiao.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -619,7 +605,7 @@
             "name": "pg| meow|[搜] ",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./(PG)js/meow.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/meow.js",
             "quickSearch": 1,
             "changeable": 1
         },
@@ -690,26 +676,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/custom_spider香雅情.jar"
-        },
-        {
-            "key": "泥巴",
-            "name": "泥巴",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-            "timeout": 120
-        },
-        {
-            "key": "星星",
-            "name": "星星",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-            "timeout": 120
         },
         {
             "key": "77",
@@ -1566,7 +1532,7 @@
             "key": "huya",
             "name": "🐯JustLive虎牙｜直播",
             "type": 3,
-            "api": "./js/huya_open.js",
+            "api": "./mao.js/huya_open.js",
             "ext": {
                 "categories": "科技#旅游#娱乐天地#一起看#颜值#二次元#星秀#音乐#原创#网游竞技#单机热游#综合手游"
             }
@@ -1575,7 +1541,7 @@
             "key": "douyu_open.js",
             "name": "🐱斗鱼",
             "type": 3,
-            "api": "./js/douyu_open.js"
+            "api": "./mao.js/douyu_open.js"
         },
         {
             "key": "kunyu77_open",
@@ -1588,7 +1554,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./js/kunyu77_open.js"
+            "api": "./mao.js/kunyu77_open.js"
         },
         {
             "key": "酷奇MV_open",
@@ -1598,7 +1564,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/kuqimv_open.js"
+            "api": "./mao.js/kuqimv_open.js"
         },
         {
             "key": "视聚场_open",
@@ -1608,7 +1574,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/cntv_open.js"
+            "api": "./mao.js/cntv_open.js"
         },
         {
             "key": "世纪DJ音乐网_open",
@@ -1618,7 +1584,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/dj0898_open.js"
+            "api": "./mao.js/dj0898_open.js"
         },
         {
             "key": "兔小贝_open",
@@ -1628,7 +1594,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/tuxiaobei_open.js"
+            "api": "./mao.js/tuxiaobei_open.js"
         },
         {
             "key": "贝乐虎_open",
@@ -1638,7 +1604,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/ubestkid_open.js"
+            "api": "./mao.js/ubestkid_open.js"
         },
         {
             "key": "童趣_open",
@@ -1648,7 +1614,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/boosj_open.js"
+            "api": "./mao.js/boosj_open.js"
         },
         {
             "key": "Libvio_open",
@@ -1658,7 +1624,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/libvio_open.js"
+            "api": "./mao.js/libvio_open.js"
         },
         {
             "key": "短视频_open",
@@ -1668,7 +1634,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/sharenice_open.js"
+            "api": "./mao.js/sharenice_open.js"
         },
         {
             "key": "南瓜影视_open",
@@ -1678,7 +1644,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/ng_open.js"
+            "api": "./mao.js/ng_open.js"
         },
         {
             "key": "我的哔哩_open",
@@ -1688,7 +1654,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/mybili_open.js"
+            "api": "./mao.js/mybili_open.js"
         },
         {
             "key": "爱上你听书网_open",
@@ -1698,7 +1664,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/230ts_open"
+            "api": "./mao.js/230ts_open"
         },
         {
             "key": "素白白_open",
@@ -1708,7 +1674,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "api": "./js/subaibai_open.js"
+            "api": "./mao.js/subaibai_open.js"
         },
         {
             "key": "drpy_js_虎牙直播",
@@ -1729,16 +1695,6 @@
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": "./js/tvb.json"
-        },
-        {
-            "key": "a8",
-            "name": "A8影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
         },
         {
             "key": "csp_CandyMuj_sstv",
@@ -1817,74 +1773,6 @@
             "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
-            "key": "影图资源",
-            "name": "影图资源(采)",
-            "type": 1,
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": "1",
-            "quickSearch": 1,
-            "categories": [
-                "国产动漫",
-                "中国动漫",
-                "日韩动漫",
-                "日本动漫",
-                "欧美动漫",
-                "港台动漫",
-                "里番动漫",
-                "海外动漫",
-                "动漫电影",
-                "其他动漫",
-                "动漫片",
-                "动画片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "海外剧",
-                "惊悚片",
-                "悬疑片",
-                "奇幻片",
-                "伦理片",
-                "国产剧",
-                "韩国剧",
-                "欧美剧",
-                "泰国剧",
-                "日本剧",
-                "台湾剧",
-                "香港剧",
-                "港澳剧",
-                "马泰剧",
-                "大陆剧",
-                "内地剧",
-                "韩剧",
-                "美剧",
-                "日剧",
-                "港剧",
-                "台剧",
-                "泰剧",
-                "电影解说",
-                "影视解说",
-                "电视直播",
-                "体育赛事",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "综艺片",
-                "综艺",
-                "体育",
-                "足球",
-                "篮球",
-                "网球",
-                "斯诺克"
-            ]
         },
         {
             "key": "极光资源",
@@ -4524,23 +4412,19 @@
     ],
     "parses": [
         {
-            "name": "-巧技-",
-            "type": 1,
-            "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
+            "name": "-残月-",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4551,7 +4435,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4561,40 +4444,33 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
         {
-            "name": "-比u比u🥭-",
-            "type": 1,
-            "url": "https://jxjson.cf/json.php?url=",
+            "name": "-剖云-",
+            "type": 0,
+            "url": "https://www.pouyun.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4605,7 +4481,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4615,19 +4490,62 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
+                ]
+            }
+        },
+        {
+            "name": "VIPJX",
+            "type": 0,
+            "url": "https://vipjx.cc/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "xigua",
+                    "leshi"
                 ]
             }
         },
@@ -4639,16 +4557,12 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4659,7 +4573,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4669,40 +4582,33 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
         {
-            "name": "虾米",
+            "name": "虾米❤️",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4713,7 +4619,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4723,40 +4628,33 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
         {
-            "name": "咸鱼",
+            "name": "咸鱼❤️",
             "type": 0,
             "url": "https://jx.xyflv.cc/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4767,7 +4665,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4777,19 +4674,16 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
@@ -4801,16 +4695,12 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4821,7 +4711,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4831,40 +4720,33 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
         {
-            "name": "-777-",
+            "name": "-777❤️-",
             "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url=",
+            "url": "https://jx.777jiexi.com/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4875,7 +4757,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4885,40 +4766,217 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
+                ]
+            }
+        },
+        {
+            "name": "-2.08bk-",
+            "type": 0,
+            "url": "https://2.08bk.com?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "xigua",
+                    "leshi"
+                ]
+            }
+        },
+        {
+            "name": "-im1907-",
+            "type": 0,
+            "url": "https://im1907.top/?jx=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "xigua",
+                    "leshi"
+                ]
+            }
+        },
+        {
+            "name": "全看",
+            "type": 0,
+            "url": "https://jx.quankan.app/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "xigua",
+                    "leshi"
+                ]
+            }
+        },
+        {
+            "name": "-dmjx.m3u8-",
+            "type": 0,
+            "url": "https://dmjx.m3u8.tv/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱 奇 艺",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "搜 狐",
+                    "搜狐视频",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "哔 哩",
+                    "哔 哩 哔 哩",
+                    "B站",
+                    "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
+                    "imgo",
+                    "iqiyi",
+                    "奇 艺",
+                    "m1905",
+                    "xigua",
+                    "leshi"
                 ]
             }
         },
         {
             "name": "-8090-",
             "type": 0,
-            "url": "https://www.8090g.cn/jiexi/?url=",
+            "url": "https://www.8090g.cn/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4929,7 +4987,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4939,19 +4996,16 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
@@ -4963,16 +5017,12 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -4983,7 +5033,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -4993,19 +5042,16 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
@@ -5017,16 +5063,12 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -5037,7 +5079,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -5047,19 +5088,16 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
@@ -5071,16 +5109,12 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -5091,7 +5125,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -5101,40 +5134,33 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
         {
-            "name": "nnxv解析",
-            "type": 1,
-            "url": "https",
+            "name": "playerjy❤️",
+            "type": 0,
+            "url": "https://jx.playerjy.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -5145,7 +5171,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -5155,19 +5180,16 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
@@ -5179,16 +5201,12 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -5199,7 +5217,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -5209,19 +5226,16 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
         },
@@ -5233,16 +5247,12 @@
                 "flag": [
                     "qq",
                     "腾讯",
-                    "腾 讯",
-                    "腾讯视频",
                     "qiyi",
                     "爱 奇 艺",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "优 酷",
-                    "优酷视频",
                     "mgtv",
                     "芒果",
                     "芒果TV",
@@ -5253,7 +5263,6 @@
                     "pptv",
                     "PPTV",
                     "sohu",
-                    "搜狐",
                     "搜 狐",
                     "搜狐视频",
                     "bilibili",
@@ -5263,21 +5272,33 @@
                     "哔 哩 哔 哩",
                     "B站",
                     "芒 果",
+                    "腾 讯",
+                    "腾讯视频",
+                    "优 酷",
+                    "优酷视频",
                     "imgo",
                     "iqiyi",
                     "奇 艺",
                     "m1905",
-                    "1905",
                     "xigua",
-                    "西 瓜 视 频",
-                    "西瓜视频",
-                    "leshi",
-                    "douyin",
-                    "wasu",
-                    "tudou",
-                    "LS"
+                    "leshi"
                 ]
             }
+        },
+        {
+            "name": "Json聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
         }
     ],
     "flags": [
