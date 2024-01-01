@@ -46,7 +46,57 @@
             "version": 3
         },
         {
+            "name": "💃小雅搜索9",
+            "server": "http://111.224.6.159:2600/",
+            "version": 3
+        },
+        {
             "name": "💃小雅搜索10",
+            "server": "http://112.195.166.158:5678/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅搜索11",
+            "server": "http://111.224.6.159:4344/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅搜索12",
+            "server": "http://118.251.19.231:5678/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅搜索13",
+            "server": "http://112.193.175.177:5678/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅搜索14",
+            "server": "http://222.95.42.220:5678/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅搜索15",
+            "server": "http://61.144.108.95:5678/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅xialuoxi.us.to",
+            "server": "http://xialuoxi.us.to:6789/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅alist.imto",
+            "server": "https://alist.imto.cc/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅alist.hhhhhq",
+            "server": "https://alist.hhhhhq.space/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅搜索",
             "server": "http://124.71.206.236:5678",
             "version": 3
         }
