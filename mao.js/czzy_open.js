@@ -1,46 +1,22 @@
-import { Crypto, load, _ } from './lib/cat.js';
+// 自动从 地址发布页 获取&跳转url地址
+import { Crypto, load, _ } from 'assets://js/lib/cat.js';
 
 let key = 'czzy';
-let url = 'https://www.czzy22.com';
+let host = 'https://cz01.vip/'; // 厂长地址发布页
+let url = '';
 let siteKey = '';
 let siteType = 0;
-
 const UA = 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1';
-
 const cookie = {};
 
-async function request(reqUrl, referer, mth, data, hd) {
+async function request(reqUrl) {
     const headers = {
         'User-Agent': UA,
-        Cookie: _.map(cookie, (value, key) => {
-            return `${key}=${value}`;
-        }).join(';'),
     };
-    if (referer) headers.referer = encodeURIComponent(referer);
-    let res = await req(reqUrl, {
-        method: mth || 'get',
+    const res = await req(reqUrl, {
+        method: 'get',
         headers: headers,
-        data: data,
-        postType: mth === 'post' ? 'form' : '',
     });
-    if (res.headers['set-cookie']) {
-        const set_cookie = _.isArray(res.headers['set-cookie']) ? res.headers['set-cookie'].join(';') : res.headers['set-cookie'];
-        const cks = set_cookie.split(';');
-        for (const c of cks) {
-            const tmp = c.trim();
-            if (tmp.startsWith('result=')) {
-                cookie.result = tmp.substring(7);
-                return await request(reqUrl, reqUrl, 'post', {
-                    result: cookie.result,
-                });
-            } else if (tmp.startsWith('esc_search_captcha=1')) {
-                cookie.esc_search_captcha = 1;
-                delete cookie.result;
-                return await request(reqUrl);
-            }
-        }
-        // console.log(res.headers['set-cookie']);
-    }
     return res.content;
 }
 
@@ -48,13 +24,43 @@ async function request(reqUrl, referer, mth, data, hd) {
 async function init(cfg) {
     siteKey = cfg.skey;
     siteType = cfg.stype;
+    url = await checkValidUrl(cfg.ext);
+    console.debug('厂长跳转地址 =====>' + url); // js_debug.log
+}
+
+async function checkValidUrl(ext) {
+    let validUrl = ext;
+    if (_.isEmpty(ext)) {
+        const html = await request(host);
+        const matches = html.matchAll(/推荐访问<a href="(.*)"/g);
+        for (const match of matches) {
+            try {
+                const rcmdUrl = match[1];
+                const res = await req(rcmdUrl, {
+                    method: 'get',
+                    headers: {
+                        'User-Agent': UA,
+                    },
+                    redirect: 0,
+                });
+                const location = res.headers['location'];
+                if (!_.isEmpty(location)) {
+                    validUrl = location;
+                } else {
+                    validUrl = rcmdUrl;
+                    break;
+                }
+            } catch(e) {
+            }
+        }
+    }
+    return validUrl;
 }
 
 async function home(filter) {
     let filterObj = {};
     const html = await request(url + '/movie_bt');
     const $ = load(html);
-    const series = $('div#beautiful-taxonomy-filters-tax-movie_bt_series > a[cat-url*=movie_bt_series]');
     const tags = $('div#beautiful-taxonomy-filters-tax-movie_bt_tags > a');
     let tag = {
         key: 'tag',
@@ -66,6 +72,7 @@ async function home(filter) {
         }),
     };
     tag['init'] = tag.value[0].v;
+    const series = $('div#beautiful-taxonomy-filters-tax-movie_bt_series > a[cat-url*=movie_bt_series]');
     let classes = _.map(series, (s) => {
         let typeId = s.attribs['cat-url'];
         typeId = typeId.substring(typeId.lastIndexOf('/') + 1);
@@ -206,9 +213,51 @@ async function play(flag, id, flags) {
     }
 }
 
-async function search(wd, quick) {
-    const html = await request(url + '/?s=' + wd);
-    const $ = load(html);
+async function search(wd, quick, pg) {
+    let page = '';
+    if (pg > 1) {
+        page = '&f=_all&p=' + pg;
+    }
+    const searchUrl = url + '/xssearch?q=' + encodeURIComponent(wd) + page;
+    const headers = {
+        'User-Agent': UA,
+        'Cookie': getCookie(),
+    };
+    let res = await req(searchUrl, {
+        method: 'get',
+        headers: headers,
+    });
+    let html = res.content;
+    let $ = load(html);
+    const $captcha = $('.erphp-search-captcha');
+    if (!_.isEmpty($captcha)) {
+        const set_cookie = _.isArray(res.headers['set-cookie']) ? res.headers['set-cookie'].join(';') : res.headers['set-cookie'];
+        const cks = set_cookie.split(';');
+        for (const c of cks) {
+            const tmp = c.trim();
+            if (tmp.startsWith('PHPSESSID=')) {
+                cookie.PHPSESSID = tmp.substring(10);
+                break;
+            }
+        }
+        headers['Cookie'] = getCookie();
+        const captcha = getCaptchaValue($captcha.text());
+        const param = {
+            result: captcha,
+        };
+        await req(searchUrl, {
+            method: 'post',
+            headers: headers,
+            data: param,
+            postType: 'form',
+        });
+        res = await req(searchUrl,  {
+            method: 'get',
+            headers: headers,
+        });
+        html = res.content;
+        $ = load(html);
+    }
     const items = $('div.search_list > ul > li');
     let videos = _.map(items, (item) => {
         const img = $(item).find('img:first')[0];
@@ -222,9 +271,44 @@ async function search(wd, quick) {
             vod_remarks: jidi || hdinfo || '',
         };
     });
+    const $pagenavi = $('div.search_list > div.pagenavi_txt');
+    const hasMore = $pagenavi.find('a.current').text() != $pagenavi.find('a:last').text();
+    const pgCount = hasMore ? parseInt(pg) + 1 : parseInt(pg);
     return JSON.stringify({
+        page: parseInt(pg),
+        pagecount: pgCount,
+        limit: 20,
+        total: 20 * pgCount,
         list: videos,
     });
+}
+
+function getCookie() {
+    return _.map(cookie, (value, key) => {
+            return `${key}=${value}`;
+        }).join(';');
+}
+
+function getCaptchaValue(captcha) {
+    let result = 0;
+    try {
+        const calc = captcha.split('=')[0].trim();
+        const matches = captcha.match(/(\d+)(.*?)(\d+)/);
+        const number1 = parseInt(matches[1]);
+        const number2 = parseInt(matches[3]);
+        const sign = matches[2].trim();
+        switch (sign) {
+            case '-':
+                result = number1 - number2;
+                break;
+            case '+':
+            default:
+                result = number1 + number2;
+                break;
+        }
+    } catch(e) {
+    }
+    return result;
 }
 
 export function __jsEvalReturn() {
