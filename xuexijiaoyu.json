@@ -1,106 +1,6 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar",
     "sites": [
-        {
-            "key": "py_youer",
-            "name": "🅱️┃幼儿┃教育",
-            "type": 3,
-            "api": "py_youer",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/libs/raw/c264a8b1a1a36c949dede8c87c1c5d610e8e5859/youer.py"
-        },
-        {
-            "key": "py_xiaoxue",
-            "name": "🅱️┃小学┃教育",
-            "type": 3,
-            "api": "py_xiaoxue",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/libs/raw/c264a8b1a1a36c949dede8c87c1c5d610e8e5859/xiaoxue.py"
-        },
-        {
-            "key": "py_czxx",
-            "name": "🅱️┃初中┃教育",
-            "type": 3,
-            "api": "py_czxx",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/libs/raw/c264a8b1a1a36c949dede8c87c1c5d610e8e5859/chuzhong.py"
-        },
-        {
-            "key": "py_gaozxx",
-            "name": "🅱️┃高中┃教育",
-            "type": 3,
-            "api": "py_gaozxx",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/libs/raw/c264a8b1a1a36c949dede8c87c1c5d610e8e5859/gaozhong.py"
-        },
-        {
-            "key": "少儿教育",
-            "name": "📚少儿┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/少儿教育.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
-            "key": "小学课堂",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/小学课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
-            "key": "初中课堂",
-            "name": "📚初中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/初中课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
-            "key": "高中教育",
-            "name": "📚高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://fanty.run.goorm.site/ext/高中课堂.json",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "♻兔小贝1",
@@ -109,8 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝.json"
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
@@ -120,30 +19,25 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝2.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/兔小贝2.json"
         },
         {
             "key": "py_baby",
             "name": "♻宝宝┃合集",
             "type": 3,
-            "api": "py_baby",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/baby.py",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/baby.py",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "filterable": 1
         },
         {
             "key": "py_cctv_1",
             "name": "️♻央视-少儿",
             "type": 3,
-            "api": "py_cctv",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/py_cctv.py",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/py_cctv.py",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+            "filterable": 1
         },
         {
             "key": "ysjd",
@@ -153,8 +47,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/央视经典.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/央视经典.json"
         },
         {
             "key": "腾讯",
@@ -199,8 +92,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/播视童趣.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/custom_spider.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/json/播视童趣.json"
         },
         {
             "key": "幼儿启蒙",
@@ -404,33 +296,39 @@
         },
         {
             "key": "py_youer",
-            "name": "♻┃幼儿┃教育",
+            "name": "py┃幼儿┃教育",
             "type": 3,
-            "api": "py_youer",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/py/lib/py_幼儿教育.py",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/幼儿.py"
+            "filterable": 1
         },
         {
             "key": "py_xiaoxue",
-            "name": "♻┃小学┃教育",
+            "name": "py┃小学┃教育",
             "type": 3,
-            "api": "py_xiaoxue",
+            "api": "https://raw.githubusercontent.com/yydfys/yydf/main/py/lib/py_%E5%B0%8F%E5%AD%A6%E6%95%99%E8%82%B2.py",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/小学.py"
+            "filterable": 1
         },
         {
             "key": "py_czxx",
-            "name": "♻┃初中┃教育",
+            "name": "py┃初中┃教育",
             "type": 3,
-            "api": "py_czxx",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/py/lib/py_初中教育.py",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/shaoerjiaoyu/py/初中.py"
+            "filterable": 1
+        },
+        {
+            "key": "py_gzxx",
+            "name": "py┃高中┃教育",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/py/lib/py_高中教育.py",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
         },
         {
             "key": "dr_兔小贝.fty",
