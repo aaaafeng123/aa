@@ -1,7 +1,18 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/pg.jar",
     "wallpaper": "http://xhww.fun:63/img.php",
     "sites": [
+        {
+            "key": "csp_直播",
+            "name": "直播(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/xyq/main/直播大全.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+        },
         {
             "key": "csp_Eighteen",
             "name": "18AV〔SP〕",
@@ -9,8 +20,18 @@
             "api": "csp_Eighteen",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "pg.jar"
+            "filterable": 1
+        },
+        {
+            "key": "奥斯卡",
+            "name": "🔞奥斯卡|采集",
+            "type": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            },
+            "api": "https://aosikazy.com/api.php/provide/vod/ ?ac=list",
+            "playUrl": ""
         },
         {
             "key": "SeHuaTang",
@@ -22,7 +43,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "jar": "pg.jar",
             "ext": "null$$$proxy",
             "style": {
                 "type": "rect",
@@ -39,11 +59,217 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "jar": "pg.jar",
             "ext": "null$$$proxy",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
+            }
+        },
+        {
+            "key": "Jable",
+            "name": "Jable",
+            "type": 3,
+            "api": "csp_Jable",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "JavDb",
+            "name": "JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "null$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "JavBus",
+            "name": "JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "null$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "Miss",
+            "name": "Miss",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "null$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "Cable",
+            "name": "CableAV",
+            "type": 3,
+            "api": "csp_Cable",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "null$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "csp_Gxqvlj",
+            "name": "🔞Gxqvlj",
+            "type": 3,
+            "api": "csp_Gxqvlj",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Zuise",
+            "name": "最色",
+            "type": 3,
+            "api": "csp_Zuise",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "null$$$null$$$1"
+        },
+        {
+            "key": "csp_AvTime",
+            "name": "🔞AvTime",
+            "type": 3,
+            "api": "csp_AvTime",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "top888",
+            "name": "top888|fq",
+            "type": 3,
+            "api": "csp_Top888",
+            "ext": "0$$$192.168.123.1:7891"
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶",
+            "type": 3,
+            "api": "csp_Doll",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.309
+            }
+        },
+        {
+            "key": "撸網666",
+            "name": "撸網666(H)",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "简介": "content=\"&&\" />",
+                "播放链接前缀": "https://luw666.ink/index.php/vodplay",
+                "播放链接后缀": "-1-1.html",
+                "直接播放": "1",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索url": "https://luw666.ink/index.php/vodsearch/----------{pg}---.html?wd={wd}&submit=",
+                "分类": "国产传媒$160#日本$2#国产$1#韩国$4#欧美$5#动画$6#中字$9#VR$3",
+                "分类url": "https://luw666.ink/index.php/vodtype/{cateId}-{catePg}.html"
+            }
+        },
+        {
+            "key": "2028天天看",
+            "name": "2028天天看(H)",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "class=\"active\" style=\"width:70%;\">&&</li>",
+                "链接": "href=\"&&\"",
+                "直接播放": "1",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索url": "http://2028p.com/vodsearch/----------{pg}---.html?wd={wd}&submit=",
+                "分类": "无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍自慰$10#动漫$5#3P和sm$11#口交颜射$12#写真伦理$13",
+                "分类url": "http://2028p.com/vodtype/{cateId}-{catePg}/[http://2028p.com/vodtype/{cateId}/]"
+            }
+        },
+        {
+            "key": "光棍H",
+            "name": "光棍影院(H)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "",
+                "首页url": "https://cg.33xf.cc/",
+                "数组": "",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "",
+                "简介": "",
+                "链接": "href=\"&&\"",
+                "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+                "免嗅": "1",
+                "分类数组": "default\"&&</li>",
+                "分类标题": ">&&</a>",
+                "分类ID": " href=\"/XfDy/&&.html\"",
+                "分类url": "https://cg.33xf.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---.html[https://cg.33xf.cc/XfDy/{cateId}.html]"
+            }
+        },
+        {
+            "key": "ppp",
+            "name": "ppp┃BPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": ".m3u8",
+                "数组": "<figure class=\"aspect-ratio\">&&</a",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "播放链接前缀": "https://ppp.porn/v",
+                "搜索url": "https://ppp.porn/search/{wd}/",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
+                "分类": "中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台湾$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkong#Cosplay$Cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#无码$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$acg#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks",
+                "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a"
             }
         },
         {
@@ -134,6 +360,14 @@
             "name": "草榴资源",
             "type": 1,
             "api": "https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8"
+        },
+        {
+            "key": "91md.me",
+            "name": "成人18+",
+            "type": 1,
+            "api": "http://91md.me/api.php/provide/vod/",
+            "searchable": 1,
+            "filterable": 1
         },
         {
             "key": "甜蜜资源",
