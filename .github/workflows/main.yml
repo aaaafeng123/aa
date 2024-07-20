@@ -1,0 +1,24 @@
+name: update niu.json to ks
+
+on:
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      #- name: Checkout current repo
+      #  uses: actions/checkout@v2
+        
+      - name: bash
+        run: |
+          cd ${{ github.workspace }}
+          file="niu.json"   #文件路径
+          curl -s 解密地址?url=http://tvbox.王二小放牛娃.top >$file
+          id=0   #文件夹ID
+          token="-6de43be030bb4cdf2fea3b2794"
+          # file="bbbs.jpeg"
+          curl https://upload.kstore.space/upload/$id?access_token=$token -F "file=@$file"
+                  
+               
