@@ -1,0 +1,351 @@
+{
+    "spider": "custom_spider.jar",
+    "logo": "https://gitee.com/123.jpg",
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "lives": [
+        {
+            "name": "XtreamCode",
+            "api": "csp_XtreamCode",
+            "url": "http://iptv.icsnleb.com:25461/player_api.php?username=12&password=12",
+            "epg": "http://iptv.icsnleb.com:25461/xmltv.php?username=12&password=12",
+            "type": 3,
+            "ext": {
+                "live": true,
+                "vod": true,
+                "formats": [
+                    "m3u8",
+                    "ts"
+                ]
+            }
+        },
+        {
+            "name": "Xtream-codes",
+            "ua": "okhttp",
+            "url": "http://cnfs.204999.xyz:30080",
+            "username": "judy520",
+            "password": "judy520"
+        },
+        {
+            "name": "M3U",
+            "url": "https://github.com/live.m3u"
+        },
+        {
+            "name": "TXT",
+            "url": "https://github.com/live.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "UA",
+            "url": "https://github.com/live.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "referer": "https://github.com/"
+        },
+        {
+            "name": "Custom",
+            "boot": false,
+            "pass": true,
+            "url": "https://github.com/live.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+                "Referer": "https://github.com/"
+            },
+            "catchup": {
+                "days": "7",
+                "type": "append",
+                "regex": "/PLTV/",
+                "replace": "/PLTV/,/TVOD/",
+                "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+            }
+        },
+        {
+            "name": "JSON",
+            "type": 1,
+            "url": "https://github.com/live.json"
+        },
+        {
+            "name": "Spider-JS",
+            "type": 3,
+            "api": "https://github.com/live.js",
+            "ext": ""
+        },
+        {
+            "name": "Spider-Python",
+            "type": 3,
+            "api": "https://github.com/live.py",
+            "ext": ""
+        }
+    ],
+    "sites": [
+        {
+            "key": "本地",
+            "name": "本地",
+            "type": 3,
+            "api": "csp_Local",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "商店",
+            "name": "商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./json/market.json"
+        },
+        {
+            "key": "AList",
+            "name": "AList",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/alist.json"
+        },
+        {
+            "key": "WebDAV",
+            "name": "WebDAV",
+            "type": 3,
+            "api": "csp_WebDAV",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "changeable": 0,
+            "timeout": 60
+        },
+        {
+            "key": "one",
+            "name": "One",
+            "type": 3,
+            "api": "csp_Csp",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/one.json"
+        },
+        {
+            "key": "two",
+            "name": "Two",
+            "type": 3,
+            "api": "csp_Csp",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/two.json"
+        },
+        {
+            "key": "extend",
+            "name": "Extend",
+            "type": 3,
+            "api": "csp_Csp",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://github.com/extend.json",
+            "jar": "https://github.com/extend.jar"
+        },
+        {
+            "key": "在线短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "timeout": 10
+        },
+        {
+            "key": "Emby",
+            "name": "Emby",
+            "type": 3,
+            "api": "./py_emby_new.py",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120,
+            "ext": {
+                "server": "https://789.123456.al:443",
+                "username": "linshao",
+                "password": "123456",
+                "thread": 0
+            }
+        },
+        {
+            "key": "腾迅",
+            "name": "腾讯视频",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "./drpy2.min.js",
+            "ext": "./drpy_js/腾云驾雾[官].js",
+            "jar": "./fm.jar"
+        },
+        {
+            "key": "www.wujinzy.com/",
+            "name": "无尽资源",
+            "type": "1",
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
+            "playUrl": "",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+            },
+            "categories": [
+                "动漫片",
+                "动画片",
+                "电影片",
+                "动作片",
+                "喜剧片"
+            ]
+        }
+    ],
+    "parses": [
+        {
+            "name": "官方",
+            "type": 1,
+            "url": "https://google.com/api/?url="
+        },
+        {
+            "name": "官方",
+            "type": 1,
+            "url": "https://google.com/api/?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "腾讯视频",
+                    "爱奇艺"
+                ]
+            }
+        }
+    ],
+    "flags": [
+        "youku",
+        "优酷",
+        "腾讯视频",
+        "爱奇艺"
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "proxy": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "googleapis.com",
+        "youtube.com"
+    ],
+    "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    ],
+    "headers": [
+        {
+            "host": "gslbserv.itv.cmvideo.cn",
+            "header": {
+                "User-Agent": "okhttp/3.12.13",
+                "Referer": "test"
+            }
+        }
+    ],
+    "rules": [
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "農民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "毛驢點擊",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        }
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv",
+        "s3t3d2y8.afcdn.net"
+    ]
+}
